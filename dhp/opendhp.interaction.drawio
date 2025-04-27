@@ -278,10 +278,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-72" value="2.2 密钥策略更新请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="928.03" y="506" width="74.97" height="30" as="geometry" />
+          <mxGeometry x="928.03" y="504" width="74.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-75" value="2.3 更新请求回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="971" y="568" width="102" height="30" as="geometry" />
+          <mxGeometry x="971" y="570" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-77" value="1.1 加密数据对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="901" y="826" width="60" height="39" as="geometry" />
@@ -303,6 +303,9 @@
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-4" value="2.4 密钥策略更新请求&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;回应&lt;/span&gt;&lt;div&gt;NHP-DKPA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="889" y="676" width="81" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-5" value="3.1 数据对象访问&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="562" y="478" width="100" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
