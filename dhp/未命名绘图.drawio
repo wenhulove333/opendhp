@@ -16,7 +16,7 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-4" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="780" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-7" value="&lt;b&gt;可信任执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="X9o5-AmgWms8p3m6Zrc2-7" value="&lt;b&gt;可信任执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="245" y="410" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-10" value="" style="group" vertex="1" connectable="0" parent="1">
