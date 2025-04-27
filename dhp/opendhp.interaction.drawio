@@ -278,7 +278,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-72" value="2.2 密钥策略更新请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="935.03" y="506" width="74.97" height="30" as="geometry" />
+          <mxGeometry x="928.03" y="506" width="74.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-75" value="2.3 更新请求回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="971" y="568" width="102" height="30" as="geometry" />
