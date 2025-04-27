@@ -7,11 +7,11 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="260" y="560" width="170" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-12" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="270" y="650" width="150" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="150" y="390" width="300" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="X9o5-AmgWms8p3m6Zrc2-12" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="650" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-4" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="297.5" y="780" width="95" height="30" as="geometry" />
