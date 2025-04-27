@@ -266,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-70" value="1.2 数据对象&lt;div&gt;注册请求&lt;/div&gt;&lt;div&gt;NHP-DRG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="672" y="625" width="77.5" height="50" as="geometry" />
+          <mxGeometry x="673" y="625" width="77.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-71" value="1.3 数据对象&lt;div&gt;注册回应&lt;/div&gt;&lt;div&gt;NHP-DAK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="763" y="624" width="73" height="50" as="geometry" />
@@ -278,10 +278,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-72" value="2.2 密钥策略更新请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="928.03" y="504" width="74.97" height="30" as="geometry" />
+          <mxGeometry x="928.03" y="503" width="74.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-75" value="2.3 更新请求回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="971" y="570" width="102" height="30" as="geometry" />
+          <mxGeometry x="971" y="572" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-77" value="1.1 加密数据对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="901" y="826" width="60" height="39" as="geometry" />
@@ -308,10 +308,10 @@
           <mxGeometry x="622" y="474" width="74" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="3.2 查询权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="929.03" y="536" width="74.97" height="30" as="geometry" />
+          <mxGeometry x="929.03" y="532" width="74.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-7" value="3.3 授权回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="973" y="596" width="74.97" height="30" as="geometry" />
+          <mxGeometry x="973" y="594" width="74.97" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="622" y="559" width="71" height="44" as="geometry" />
