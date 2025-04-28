@@ -268,10 +268,10 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-70" value="2.1 数据对象&lt;div&gt;注册请求&lt;/div&gt;&lt;div&gt;NHP-DRG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="686.5" y="645" width="77.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-71" value="2.2 数据对象&lt;div&gt;注册回应&lt;/div&gt;&lt;div&gt;NHP-DAK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="00rbyf-99KH5G40TQg_o-71" value="2.4 数据对象&lt;div&gt;注册回应&lt;/div&gt;&lt;div&gt;NHP-DAK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="797" y="645" width="73" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="00rbyf-99KH5G40TQg_o-74" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1" source="UsX5kfeknbiZO-hsTeYS-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="964" y="960" as="sourcePoint" />
             <mxPoint x="965.4635859728508" y="533" as="targetPoint" />
@@ -283,17 +283,41 @@
         <mxCell id="sqAiBqklvVXKbnQl1pjI-5" value="3.1 数据对象访问请求&lt;div&gt;NHP-DAR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="474" width="74" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="3.2 授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="932.03" y="532" width="74.97" height="30" as="geometry" />
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="2.2 添加策略（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="929.03" y="496" width="74.97" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-7" value="3.3 授权回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="973" y="594" width="74.97" height="30" as="geometry" />
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-7" value="3.3 授权回应（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="973" y="594" width="127" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="559" width="71" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UsX5kfeknbiZO-hsTeYS-1" value="日志上传" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="877.5" y="173" width="74.97" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1" target="UsX5kfeknbiZO-hsTeYS-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="964" y="960" as="sourcePoint" />
+            <mxPoint x="965.4635859728508" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-3" value="3.2 授权（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="927" y="536" width="74.97" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-5" value="2.3 策略回应（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="973" y="573" width="127" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.569;entryY=0.952;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.739;exitY=-0.006;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-31" target="00rbyf-99KH5G40TQg_o-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="710" as="sourcePoint" />
+            <mxPoint x="1040" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.668;entryY=0.936;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.83;exitY=-0.011;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=0;strokeWidth=2;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-31" target="00rbyf-99KH5G40TQg_o-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="710" as="sourcePoint" />
+            <mxPoint x="1130" y="660" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
