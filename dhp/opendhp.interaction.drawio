@@ -156,7 +156,7 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.913;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;startArrow=classic;startFill=0;endArrow=none;" parent="1" source="00rbyf-99KH5G40TQg_o-36" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-44" value="&lt;b&gt;数据资源请提供者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="00rbyf-99KH5G40TQg_o-44" value="&lt;b&gt;数据资源提供者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="844" y="878" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-45" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
