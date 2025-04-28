@@ -292,6 +292,9 @@
         <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="559" width="71" height="44" as="geometry" />
         </mxCell>
+        <mxCell id="UsX5kfeknbiZO-hsTeYS-1" value="日志上传" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="173" width="74.97" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
