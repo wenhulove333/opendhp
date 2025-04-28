@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="qHFYKtDAnqTjGrU_OHOG">
-    <mxGraphModel dx="1295" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,7 +222,7 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=4;" parent="1" source="00rbyf-99KH5G40TQg_o-61" target="00rbyf-99KH5G40TQg_o-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-61" value="隐私数据保护层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
+        <mxCell id="00rbyf-99KH5G40TQg_o-61" value="隐私数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="369" y="323" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-62" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;exitX=0.005;exitY=0.658;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;startFill=0;exitPerimeter=0;" parent="1" edge="1">
@@ -231,13 +231,13 @@
             <mxPoint x="513.5" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.05;exitY=0.735;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;exitPerimeter=0;entryX=0.169;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="00rbyf-99KH5G40TQg_o-33" source="00rbyf-99KH5G40TQg_o-27">
+        <mxCell id="00rbyf-99KH5G40TQg_o-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.05;exitY=0.735;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;exitPerimeter=0;entryX=0.169;entryY=0.123;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750.3401692969994" y="603.3247059737269" as="sourcePoint" />
             <mxPoint x="750" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.241;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.148;exitY=0.866;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="00rbyf-99KH5G40TQg_o-33" source="00rbyf-99KH5G40TQg_o-27">
+        <mxCell id="00rbyf-99KH5G40TQg_o-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.241;entryY=0.066;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.148;exitY=0.866;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="764" y="600" as="sourcePoint" />
             <mxPoint x="763.9980000000002" y="733.0000000000001" as="targetPoint" />
@@ -286,34 +286,34 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-77" value="1.1 加密数据对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="901" y="826" width="60" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;entryX=0.788;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="00rbyf-99KH5G40TQg_o-33">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;entryX=0.788;entryY=0.087;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="877" y="580" as="sourcePoint" />
             <mxPoint x="877.7280000000001" y="741.4399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.99;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.845;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-33">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;exitX=0.99;exitY=0.607;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.845;entryY=0.137;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="897" y="586" as="sourcePoint" />
             <mxPoint x="900" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-3" value="2.1 密钥策略更新&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;请求&lt;/span&gt;&lt;div&gt;NHP-DKPU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-3" value="2.1 密钥策略更新&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;请求&lt;/span&gt;&lt;div&gt;NHP-DKPU&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="803" y="676" width="77.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-4" value="2.4 密钥策略更新请求&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;回应&lt;/span&gt;&lt;div&gt;NHP-DKPA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-4" value="2.4 密钥策略更新请求&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;回应&lt;/span&gt;&lt;div&gt;NHP-DKPA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="889" y="676" width="81" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-5" value="3.1 数据对象访问请求&lt;div&gt;NHP-DAR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-5" value="3.1 数据对象访问请求&lt;div&gt;NHP-DAR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="474" width="74" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="3.2 查询权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="3.2 查询权限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="929.03" y="532" width="74.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-7" value="3.3 授权回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-7" value="3.3 授权回应" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="973" y="594" width="74.97" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="622" y="559" width="71" height="44" as="geometry" />
         </mxCell>
       </root>
