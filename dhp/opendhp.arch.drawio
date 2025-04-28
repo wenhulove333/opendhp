@@ -1,12 +1,9 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="NBELX72EvP4mYWvqCN1p">
-    <mxGraphModel dx="2072" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qmHlh--h26LQFfYVL7cj-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1182" y="674" width="130" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="368" y="370" width="170" height="260" as="geometry" />
         </mxCell>
@@ -166,22 +163,22 @@
           <mxGeometry x="1006" y="336" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-62" value="认证授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1112" y="507" width="60" height="30" as="geometry" />
+          <mxGeometry x="1143" y="505" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-63" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=light-dark(#000000, #61820b);strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.policy;" parent="1" vertex="1">
-          <mxGeometry x="1054.97" y="464.5" width="50.06" height="43" as="geometry" />
+          <mxGeometry x="1085.97" y="462.5" width="50.06" height="43" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-64" value="策略访问服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1045.03" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="1076.03" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-66" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.citrix_federated_authentication_service2;" parent="1" vertex="1">
-          <mxGeometry x="1117" y="470.95000000000005" width="50" height="30.095" as="geometry" />
+          <mxGeometry x="1148" y="468.95000000000005" width="50" height="30.095" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-67" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.key_management_service_external_key_store;" parent="1" vertex="1">
-          <mxGeometry x="1221.97" y="722.5" width="45" height="45" as="geometry" />
+          <mxGeometry x="1017.97" y="458" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-68" value="密钥管理服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1220" y="777.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="1016" y="513" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.345;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-32" target="X9o5-AmgWms8p3m6Zrc2-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -225,10 +222,10 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-79" value="隐私数据预处理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="369" y="323" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qmHlh--h26LQFfYVL7cj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.345;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1114" y="745" as="sourcePoint" />
-            <mxPoint x="1193" y="744.5" as="targetPoint" />
+        <mxCell id="UsX--a53koK76Qtb-EmN-2" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;entryX=0.507;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endFill=0;startFill=0;" edge="1" parent="1" target="X9o5-AmgWms8p3m6Zrc2-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1035.97" y="660" as="sourcePoint" />
+            <mxPoint x="1085.97" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
