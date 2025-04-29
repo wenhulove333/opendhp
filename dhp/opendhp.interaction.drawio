@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="qHFYKtDAnqTjGrU_OHOG">
-    <mxGraphModel dx="1295" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -228,12 +228,6 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-61" value="隐私数据预处理器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="369" y="323" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-62" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeWidth=2;startFill=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="750" y="523" as="sourcePoint" />
-            <mxPoint x="530" y="523" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;entryX=0.238;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750.3401692969994" y="603.3247059737269" as="sourcePoint" />
@@ -275,13 +269,10 @@
           <mxGeometry x="901" y="826" width="60" height="39" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-5" value="3.1 数据对象访问请求&lt;div&gt;NHP-DAR&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="563" y="448" width="130" height="44" as="geometry" />
+          <mxGeometry x="579" y="448" width="130" height="44" as="geometry" />
         </mxCell>
         <mxCell id="sqAiBqklvVXKbnQl1pjI-6" value="2.2 添加策略（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="929.03" y="474" width="74.97" height="41" as="geometry" />
-        </mxCell>
-        <mxCell id="sqAiBqklvVXKbnQl1pjI-8" value="3.4 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="556.5" y="486" width="143" height="44" as="geometry" />
         </mxCell>
         <mxCell id="UsX5kfeknbiZO-hsTeYS-1" value="日志上传" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="877.5" y="173" width="74.97" height="20" as="geometry" />
@@ -325,24 +316,32 @@
         <mxCell id="UsX5kfeknbiZO-hsTeYS-11" value="1.2 创建数据公私钥对回应（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-40;" parent="1" vertex="1">
           <mxGeometry x="1069.51" y="645.7" width="95.97" height="27.63" as="geometry" />
         </mxCell>
-        <mxCell id="9-dNmZstQ9wWbJkjLVU4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.887;entryY=0.792;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="00rbyf-99KH5G40TQg_o-3">
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="744.0000000000002" y="555" as="sourcePoint" />
-            <mxPoint x="520" y="555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-dNmZstQ9wWbJkjLVU4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.104;entryY=0.774;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-3" target="00rbyf-99KH5G40TQg_o-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="453" y="579" />
-            </Array>
+            <mxPoint x="750" y="519" as="sourcePoint" />
+            <mxPoint x="530" y="519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9-dNmZstQ9wWbJkjLVU4-5" value="3.4 策略验证挑战&lt;div&gt;NHP-DPC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="598" y="527.33" width="110" height="26.67" as="geometry" />
+          <mxGeometry x="598" y="491.33000000000004" width="110" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="9-dNmZstQ9wWbJkjLVU4-6" value="3.4 策略验证凭证&lt;div&gt;NHP-DPV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="603" y="586.1600000000001" width="110" height="26.67" as="geometry" />
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-6" value="3.5 策略验证凭证&lt;div&gt;NHP-DPV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="598" y="521.1600000000001" width="110" height="26.67" as="geometry" />
+        </mxCell>
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-7" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeWidth=2;startFill=0;exitX=0.096;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.569;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="00rbyf-99KH5G40TQg_o-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="742" y="581" as="sourcePoint" />
+            <mxPoint x="522" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-8" value="3.6 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="571.5" y="545" width="143" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.953;entryY=0.721;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="742.0000000000011" y="548" as="sourcePoint" />
+            <mxPoint x="520.95" y="548.5200000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
