@@ -345,7 +345,7 @@
             <mxPoint x="503" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UxfDiZhfWIkGIpF8c-4R-29" value="3.6 使用噪声协议XX模式建立加密通道（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=50;" vertex="1" parent="1">
+        <mxCell id="UxfDiZhfWIkGIpF8c-4R-29" value="3.7 使用噪声协议XX模式建立加密通道（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=50;" vertex="1" parent="1">
           <mxGeometry x="565" y="613.31" width="143" height="44" as="geometry" />
         </mxCell>
       </root>
