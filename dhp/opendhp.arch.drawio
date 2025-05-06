@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="NBELX72EvP4mYWvqCN1p">
-    <mxGraphModel dx="1828" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,13 +101,13 @@
           <mxGeometry x="757" y="700" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-43" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1004" y="755" width="80" height="40" as="geometry" />
+          <mxGeometry x="1004" y="755" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="X9o5-AmgWms8p3m6Zrc2-43" vertex="1">
-          <mxGeometry width="80" height="40" as="geometry" />
+          <mxGeometry width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-45" value="&lt;b&gt;零信任数据对象ZTDO或服务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="X9o5-AmgWms8p3m6Zrc2-43" vertex="1">
-          <mxGeometry x="6" y="9" width="70" height="24" as="geometry" />
+          <mxGeometry x="6" y="9" width="84" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-48" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1014" y="704" width="70" height="30" as="geometry" />
@@ -124,8 +124,10 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-39" target="X9o5-AmgWms8p3m6Zrc2-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.913;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=4;startArrow=classic;startFill=0;endArrow=none;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-44" target="X9o5-AmgWms8p3m6Zrc2-40" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X9o5-AmgWms8p3m6Zrc2-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;startArrow=classic;startFill=0;endArrow=none;entryX=0.93;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-44" target="X9o5-AmgWms8p3m6Zrc2-40" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="775" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-58" value="&lt;b&gt;数据资源提供者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="844" y="830" width="105" height="30" as="geometry" />
