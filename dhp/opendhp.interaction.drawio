@@ -19,8 +19,8 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-4" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405.5" y="590" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-5" value="&lt;b&gt;可信任执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="399" y="221" width="110" height="30" as="geometry" />
+        <mxCell id="00rbyf-99KH5G40TQg_o-5" value="&lt;b&gt;可信执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="396" y="221" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-6" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="409" y="259" width="130" height="40" as="geometry" />
