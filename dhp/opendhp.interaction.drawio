@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="qHFYKtDAnqTjGrU_OHOG">
-    <mxGraphModel dx="783" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1131" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -110,7 +110,7 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.965;exitY=0.305;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="344" y="876" as="sourcePoint" />
-            <mxPoint x="494" y="876" as="targetPoint" />
+            <mxPoint x="530" y="876" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-55" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="00rbyf-99KH5G40TQg_o-54" vertex="1" connectable="0">
@@ -121,7 +121,7 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=0;startArrow=none;startFill=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="347.5" y="831.37" as="sourcePoint" />
-            <mxPoint x="494" y="831" as="targetPoint" />
+            <mxPoint x="520" y="831" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-57" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支撑服务&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="00rbyf-99KH5G40TQg_o-56" vertex="1" connectable="0">
@@ -132,7 +132,7 @@
         <mxCell id="00rbyf-99KH5G40TQg_o-58" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeWidth=2;startFill=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="348" y="782" as="sourcePoint" />
-            <mxPoint x="494" y="782" as="targetPoint" />
+            <mxPoint x="520" y="782" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-59" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NHP控制消息&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="00rbyf-99KH5G40TQg_o-58" vertex="1" connectable="0">
@@ -327,6 +327,26 @@
         </mxCell>
         <mxCell id="UxfDiZhfWIkGIpF8c-4R-22" value="数据策略执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="768" y="803" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UxfDiZhfWIkGIpF8c-4R-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="932" as="sourcePoint" />
+            <mxPoint x="339" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxfDiZhfWIkGIpF8c-4R-24" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;服务数据加密传输通道&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UxfDiZhfWIkGIpF8c-4R-23">
+          <mxGeometry x="0.189" relative="1" as="geometry">
+            <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxfDiZhfWIkGIpF8c-4R-28" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.885;entryY=0.866;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.07;exitY=0.283;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;dashed=1;dashPattern=8 8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="727.56" y="766.96" as="sourcePoint" />
+            <mxPoint x="503" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UxfDiZhfWIkGIpF8c-4R-29" value="3.6 使用噪声协议XX模式建立加密通道（可选）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=50;" vertex="1" parent="1">
+          <mxGeometry x="565" y="613.31" width="143" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
