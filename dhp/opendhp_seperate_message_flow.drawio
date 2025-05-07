@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="cxOIMT9CrhXrCGaVQ_hj">
-    <mxGraphModel dx="888" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
             <mxPoint x="650" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DRG数据对象注册消息&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-16">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DAR数据对象访问请求&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.902;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cnqvoqYelQEDcmGMp8Uq-7">
@@ -52,11 +52,29 @@
             <mxPoint x="420" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DAK数据对象注册响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-18">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DAG数据对象访问响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-20" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP Agent）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="276" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cnqvoqYelQEDcmGMp8Uq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="524.83" as="sourcePoint" />
+            <mxPoint x="651" y="524.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DPV策略验证凭证&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cnqvoqYelQEDcmGMp8Uq-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="651" y="492.99500000000006" as="sourcePoint" />
+            <mxPoint x="430" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DPC策略验证挑战&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="cnqvoqYelQEDcmGMp8Uq-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
