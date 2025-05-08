@@ -76,7 +76,7 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-40" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="714" y="683" width="208" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-41" value="&lt;b&gt;DHP数据代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="X9o5-AmgWms8p3m6Zrc2-41" value="&lt;b&gt;DHP数据经纪器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="757" y="700" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-43" value="" style="group" parent="1" vertex="1" connectable="0">
