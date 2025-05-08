@@ -241,7 +241,7 @@
           <mxGeometry y="4" width="78.75" height="24" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-7" value="&lt;b&gt;可信执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="X9o5-AmgWms8p3m6Zrc2-23" vertex="1">
-          <mxGeometry x="-61.02999999999997" y="-112" width="110" height="30" as="geometry" />
+          <mxGeometry x="-61.02999999999997" y="-117" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
