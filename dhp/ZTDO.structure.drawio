@@ -31,6 +31,18 @@
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-10" value="Payload Offset" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="190" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-11" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-12" value="Symmetric &amp;amp; Signature Config" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="220" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-13" value="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-14" value="Meta Length" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
