@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="40" height="350" as="geometry" />
+          <mxGeometry x="150" y="100" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-2" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="200" y="100" width="80" height="30" as="geometry" />
@@ -42,6 +42,9 @@
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-14" value="Meta Length" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-15" value="&lt;b&gt;Header&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="140" y="175" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
