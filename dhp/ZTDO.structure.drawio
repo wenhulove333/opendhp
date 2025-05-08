@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.0.1">
   <diagram name="第 1 页" id="uLFJ8SncW3sbKlQuvjZg">
-    <mxGraphModel dx="1828" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,27 +60,6 @@
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-86" value="IV+Ciphertext+MAC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-103">
           <mxGeometry x="130" y="90" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-104" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="640" width="370" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c1e4f7, #319eff);fontColor=#ffffff;strokeColor=default;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry width="40" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-91" value="33-67" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry x="50" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-92" value="Signer Public" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry x="130" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-93" value="64-132" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry x="50" y="30" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-94" value="Signature Body" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry x="130" y="30" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-95" value="&lt;b&gt;Signature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="0JDXkcEKAHQ5cRbbdFEC-104">
-          <mxGeometry x="-10" y="16" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-105" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="150" y="100" width="1452" height="322" as="geometry" />
@@ -223,6 +202,27 @@
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-106" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-more-128.png;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="213" y="562" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-107" value="Byte Size Range" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="201" y="60" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-90" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffdba9, #319eff);fontColor=#ffffff;strokeColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-91" value="33-67" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-92" value="Signer Public" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="640" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-93" value="64-132" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;container=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="670" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-94" value="Signature Body" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="670" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-95" value="&lt;b&gt;Signature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;container=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="656" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
