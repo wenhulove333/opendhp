@@ -146,10 +146,10 @@
             <mxPoint x="763.5039999999999" y="743.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.756;entryY=0.054;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.148;exitY=0.866;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="00rbyf-99KH5G40TQg_o-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.427;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="UxfDiZhfWIkGIpF8c-4R-20" source="00rbyf-99KH5G40TQg_o-27">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870.1999999999998" y="592.9200000000001" as="sourcePoint" />
-            <mxPoint x="871.2480000000003" y="744.48" as="targetPoint" />
+            <mxPoint x="806" y="610" as="sourcePoint" />
+            <mxPoint x="805.7919999999999" y="742.6800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-66" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
@@ -171,11 +171,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-70" value="2.1 数据对象&lt;div&gt;注册请求&lt;/div&gt;&lt;div&gt;NHP-DRG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="687.5" y="645" width="77.5" height="50" as="geometry" />
+        <mxCell id="00rbyf-99KH5G40TQg_o-70" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;2.1 数据对象&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;注册请求&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;NHP-DRG&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="720" y="625" width="45" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="00rbyf-99KH5G40TQg_o-71" value="2.4 数据对象&lt;div&gt;注册回应&lt;/div&gt;&lt;div&gt;NHP-DAK&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="797" y="645" width="73" height="50" as="geometry" />
+        <mxCell id="00rbyf-99KH5G40TQg_o-71" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;2.4 数据对象&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;注册回应&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;NHP-DAK&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="766" y="633" width="40" height="70" as="geometry" />
         </mxCell>
         <mxCell id="00rbyf-99KH5G40TQg_o-77" value="1.3 加密数据对象" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="901" y="826" width="60" height="39" as="geometry" />
@@ -246,7 +246,7 @@
             <mxPoint x="510" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9-dNmZstQ9wWbJkjLVU4-8" value="3.6 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9-dNmZstQ9wWbJkjLVU4-8" value="3.8 数据对象访问回应&lt;div&gt;NHP-DAG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="571.5" y="514" width="143" height="44" as="geometry" />
         </mxCell>
         <mxCell id="9-dNmZstQ9wWbJkjLVU4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.666;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;startFill=1;startArrow=classic;" parent="1" target="UxfDiZhfWIkGIpF8c-4R-3" edge="1">
@@ -327,6 +327,24 @@
         </mxCell>
         <mxCell id="UxfDiZhfWIkGIpF8c-4R-22" value="数据策略执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="768" y="803" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3mWbaSRooL5yI379KgK3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;strokeWidth=2;entryX=0.679;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;endFill=1;" edge="1" parent="1" target="UxfDiZhfWIkGIpF8c-4R-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="855" y="600" as="sourcePoint" />
+            <mxPoint x="853.5039999999999" y="752.0020000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mWbaSRooL5yI379KgK3-2" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;3.6 封装密钥&lt;/font&gt;&lt;span style=&quot;font-size: 10px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;请求&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;NHP-DWR&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="633.28" width="45" height="66.72" as="geometry" />
+        </mxCell>
+        <mxCell id="3mWbaSRooL5yI379KgK3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.942;exitY=0.741;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;strokeWidth=2;exitPerimeter=0;entryX=0.892;entryY=0.175;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="00rbyf-99KH5G40TQg_o-27" target="UxfDiZhfWIkGIpF8c-4R-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="583.152" as="sourcePoint" />
+            <mxPoint x="900" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3mWbaSRooL5yI379KgK3-4" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;3.7 封装密钥应答&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;NHP-DWA&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="856" y="631.15" width="45" height="68.85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
