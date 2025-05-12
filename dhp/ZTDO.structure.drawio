@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.0.3">
   <diagram name="第 1 页" id="uLFJ8SncW3sbKlQuvjZg">
-    <mxGraphModel dx="2220" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-2" value="4" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="200" y="269" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-4" value="Type Identifier" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0JDXkcEKAHQ5cRbbdFEC-4" value="Magic Number" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="269" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0JDXkcEKAHQ5cRbbdFEC-5" value="16" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;" parent="1" vertex="1">
