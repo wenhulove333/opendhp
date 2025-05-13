@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-58" value="&lt;b&gt;数据资源提供方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1054.53" y="279" width="105" height="30" as="geometry" />
+          <mxGeometry x="1031.03" y="280" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="951" y="280" width="279" height="336" as="geometry" />
@@ -233,7 +233,7 @@
         <mxCell id="f-TEMgH-XGFlBcZfZV_i-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="966" y="271" as="sourcePoint" />
-            <mxPoint x="1256" y="271" as="targetPoint" />
+            <mxPoint x="1220" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-TEMgH-XGFlBcZfZV_i-3" value="&lt;b&gt;数据资源监管方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
