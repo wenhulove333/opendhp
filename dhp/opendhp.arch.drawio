@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-6" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="339" y="247" width="223" height="420" as="geometry" />
-        </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="368" y="280" width="170" height="350" as="geometry" />
         </mxCell>
@@ -14,7 +11,7 @@
           <mxGeometry x="378" y="473" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-4" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="403" y="637" width="95" height="30" as="geometry" />
+          <mxGeometry x="403" y="124" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-10" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="409" y="259" width="130" height="40" as="geometry" />
@@ -106,10 +103,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-58" value="&lt;b&gt;数据资源提供方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="844" y="830" width="105" height="30" as="geometry" />
+          <mxGeometry x="1054.53" y="279" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="951" y="256" width="290" height="360" as="geometry" />
+          <mxGeometry x="951" y="280" width="279" height="336" as="geometry" />
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-60" value="&lt;font&gt;&lt;b&gt;授权服务提供商&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;（Authorization Service Provider）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;（认证授权、 密钥访问服务、策略访问服务）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1006" y="336" width="180" height="120" as="geometry" />
@@ -132,8 +129,10 @@
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-68" value="密钥管理服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1016" y="513" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X9o5-AmgWms8p3m6Zrc2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.002;exitY=0.882;exitDx=0;exitDy=0;entryX=0.345;entryY=0.87;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;exitPerimeter=0;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-32" target="X9o5-AmgWms8p3m6Zrc2-59" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="X9o5-AmgWms8p3m6Zrc2-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.871;exitDx=0;exitDy=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;exitPerimeter=0;entryX=0.345;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="X9o5-AmgWms8p3m6Zrc2-32" target="X9o5-AmgWms8p3m6Zrc2-59" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="570" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="X9o5-AmgWms8p3m6Zrc2-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.965;exitY=0.305;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -233,9 +232,15 @@
         </mxCell>
         <mxCell id="f-TEMgH-XGFlBcZfZV_i-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="966" y="280" as="sourcePoint" />
-            <mxPoint x="1256" y="280" as="targetPoint" />
+            <mxPoint x="966" y="271" as="sourcePoint" />
+            <mxPoint x="1256" y="271" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f-TEMgH-XGFlBcZfZV_i-3" value="&lt;b&gt;数据资源监管方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1031.03" y="124" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-TEMgH-XGFlBcZfZV_i-4" value="&lt;b&gt;NHP服务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="742" y="124" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
