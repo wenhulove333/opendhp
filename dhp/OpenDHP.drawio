@@ -1325,20 +1325,23 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-1" value="DHP噪声协议" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="720" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-2" value="数据资源请求者" style="swimlane;startSize=20;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-2" value="数据资源请求者&lt;div&gt;拥有teePriv, teePub, providerPriv,&amp;nbsp;&lt;/div&gt;&lt;div&gt;providerPub, consumerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
           <mxGeometry y="20" width="240" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-3" value="DHP服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-3" value="DHP服务" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
           <mxGeometry x="240" y="20" width="240" height="890" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-4" value="数据资源提供方" style="swimlane;startSize=20;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-4" value="数据资源提供方&lt;div&gt;拥有consumerPriv, consumerPub,&lt;/div&gt;&lt;div&gt;teePub, providerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
           <mxGeometry x="480" y="20" width="240" height="890" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-5" value="&lt;b&gt;Curve25519/SM2&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ed9745, #ededed);" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-6" value="&lt;b&gt;SHA-256/SM3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ed9745, #ededed);" vertex="1" parent="1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-6" value="&lt;b&gt;SHA-256/SM3&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#e0c431, #ededed);" vertex="1" parent="1">
           <mxGeometry x="330" y="150" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-7" value="&lt;b&gt;AES256/SM4&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#4ccbcd, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
