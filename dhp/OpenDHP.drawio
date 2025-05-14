@@ -1325,7 +1325,7 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-1" value="DHP噪声协议" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="100" width="720" height="910" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-2" value="数据资源请求者&lt;div&gt;拥有teePriv, teePub, providerPriv,&amp;nbsp;&lt;/div&gt;&lt;div&gt;providerPub, consumerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-2" value="数据资源请求者&lt;div&gt;拥有teePriv, teePub, consumerPriv,&amp;nbsp;&lt;/div&gt;&lt;div&gt;consumerPub, providerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
           <mxGeometry y="20" width="240" height="890" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="3kukBG5LMEMkLCgeNeW_-2" source="3kukBG5LMEMkLCgeNeW_-8" target="3kukBG5LMEMkLCgeNeW_-29">
@@ -1355,11 +1355,14 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-17" value="初始hash0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
           <mxGeometry x="140" y="225" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-32" value="hash consumerEPub &amp;gt; hash1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-32" value="hash teePub &amp;gt; hash1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
           <mxGeometry x="140" y="285" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-34" value="providerPriv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
           <mxGeometry x="10" y="285" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-35" value="hash providerPub &amp;gt; hash2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
+          <mxGeometry x="140" y="345" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="3kukBG5LMEMkLCgeNeW_-1" source="3kukBG5LMEMkLCgeNeW_-10" target="3kukBG5LMEMkLCgeNeW_-9">
           <mxGeometry relative="1" as="geometry" />
