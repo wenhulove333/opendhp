@@ -1343,7 +1343,7 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-10" value="&lt;b&gt;.....&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=none;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-3">
           <mxGeometry x="70" y="165" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-4" value="数据资源提供方&lt;div&gt;拥有consumerPriv, consumerPub,&lt;/div&gt;&lt;div&gt;teePub, providerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-4" value="数据资源提供方&lt;div&gt;拥有providerPriv, providerPub,&lt;/div&gt;&lt;div&gt;teePub, consumerPub&lt;/div&gt;" style="swimlane;startSize=60;html=1;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-1">
           <mxGeometry x="480" y="20" width="240" height="890" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-9" value="发起数据资源请求" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=none;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
@@ -1358,7 +1358,7 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-32" value="hash teePub &amp;gt; hash1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
           <mxGeometry x="140" y="285" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-34" value="providerPriv" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-34" value="providerPriv和teePub进行ECDH &amp;gt; SS0" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
           <mxGeometry x="10" y="285" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-35" value="hash providerPub &amp;gt; hash2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-4">
