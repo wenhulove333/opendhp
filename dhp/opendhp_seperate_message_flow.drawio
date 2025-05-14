@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.0.5">
   <diagram name="第 1 页" id="cxOIMT9CrhXrCGaVQ_hj">
-    <mxGraphModel dx="1554" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2220" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+        <mxCell id="-prleealjzdKW0juIW-7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="503" width="250" height="170.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="1227" y="497.5" width="250" height="170.5" as="geometry" />
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-1" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="780" y="200" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-2" value="&lt;b&gt;NHP数据经纪器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-2" value="&lt;b&gt;NHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.977;exitY=0.332;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.263;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="cnqvoqYelQEDcmGMp8Uq-2" edge="1">
@@ -31,16 +34,10 @@
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DAK数据对象注册响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="cnqvoqYelQEDcmGMp8Uq-5" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-7" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350" y="503" width="220" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-14" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="791" y="503" width="200" height="165" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-15" value="&lt;b&gt;NHP数据经纪器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="371" y="568" width="180" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.926;exitY=0.234;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cnqvoqYelQEDcmGMp8Uq-7" target="cnqvoqYelQEDcmGMp8Uq-14" edge="1">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cnqvoqYelQEDcmGMp8Uq-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="543" as="sourcePoint" />
             <mxPoint x="790" y="543" as="targetPoint" />
@@ -49,59 +46,62 @@
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-17" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DAR数据对象访问请求&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="cnqvoqYelQEDcmGMp8Uq-16" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.902;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cnqvoqYelQEDcmGMp8Uq-7" edge="1">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.994;entryY=0.8;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-prleealjzdKW0juIW-7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790.8" y="638.2950000000001" as="sourcePoint" />
-            <mxPoint x="560" y="639" as="targetPoint" />
+            <mxPoint x="570" y="639" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-19" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DAG数据对象访问响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="cnqvoqYelQEDcmGMp8Uq-18" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-20" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP Agent）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="416" y="523" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.988;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="cnqvoqYelQEDcmGMp8Uq-7" edge="1">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.008;exitY=0.615;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="-prleealjzdKW0juIW-7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="555" y="607.83" as="sourcePoint" />
+            <mxPoint x="580" y="608" as="sourcePoint" />
             <mxPoint x="791" y="607.83" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DPV策略验证凭证&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="cnqvoqYelQEDcmGMp8Uq-22" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cnqvoqYelQEDcmGMp8Uq-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="cnqvoqYelQEDcmGMp8Uq-7" edge="1">
+        <mxCell id="cnqvoqYelQEDcmGMp8Uq-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.001;exitY=0.723;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.006;entryY=0.424;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="-prleealjzdKW0juIW-7-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="791" y="575.9950000000001" as="sourcePoint" />
-            <mxPoint x="570" y="576" as="targetPoint" />
+            <mxPoint x="580" y="576" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="cnqvoqYelQEDcmGMp8Uq-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DPC策略验证挑战&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="cnqvoqYelQEDcmGMp8Uq-24" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-1" value="&lt;b&gt;NHP数据经纪&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-1" value="&lt;b&gt;NHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1262" y="520" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-3" value="&lt;b&gt;数据资源提供方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-3" value="&lt;b&gt;数据资源提供方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1297" y="626" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.926;exitY=0.234;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.005;entryY=0.242;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.926;exitY=0.234;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="991" y="557.5" as="sourcePoint" />
             <mxPoint x="1227" y="557.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DWR数据封装密钥访问请求&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mBRabc0Q7ghUZyc4k5AS-4">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;NHP-DWR数据封装密钥访问请求&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="mBRabc0Q7ghUZyc4k5AS-4" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.004;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mBRabc0Q7ghUZyc4k5AS-2">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.902;entryY=0.802;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.004;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="mBRabc0Q7ghUZyc4k5AS-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1220" y="621" as="sourcePoint" />
             <mxPoint x="991" y="620.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mBRabc0Q7ghUZyc4k5AS-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DWA封装密钥响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="mBRabc0Q7ghUZyc4k5AS-6">
+        <mxCell id="mBRabc0Q7ghUZyc4k5AS-7" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;NHP-DWA封装密钥响应&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="mBRabc0Q7ghUZyc4k5AS-6" connectable="0" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-prleealjzdKW0juIW-7-1" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="630" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-prleealjzdKW0juIW-7-3" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP Agent）&lt;/b&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="520" width="180" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
