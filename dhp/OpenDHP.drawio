@@ -1358,7 +1358,7 @@
         <mxCell id="nQIS1Hg5Lp8KUKhFwh-P-7" value="key1混合SS0 &amp;gt; key2作为GCM keyA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-2">
           <mxGeometry x="10" y="489" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nQIS1Hg5Lp8KUKhFwh-P-10" value="providerPriv和consumerEpub进行ECDH &amp;gt; SS1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-2">
+        <mxCell id="nQIS1Hg5Lp8KUKhFwh-P-10" value="consumerEPriv和providerPub进行ECDH &amp;gt; SS1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-2">
           <mxGeometry x="10" y="549" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nQIS1Hg5Lp8KUKhFwh-P-11" value="hash consumerEPub -&amp;gt; hash3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" vertex="1" parent="3kukBG5LMEMkLCgeNeW_-2">
