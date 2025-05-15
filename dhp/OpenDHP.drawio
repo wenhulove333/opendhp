@@ -463,10 +463,10 @@
             <mxPoint x="527.6999999999999" y="490.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XNKHDg-uXlKhG6mYbhsP-58" value="3.4 策略验证挑战&lt;div&gt;NHP-DPC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XNKHDg-uXlKhG6mYbhsP-58" value="3.4 自我证明请求&lt;div&gt;NHP-DSA&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="601" y="463.33000000000004" width="110" height="26.67" as="geometry" />
         </mxCell>
-        <mxCell id="XNKHDg-uXlKhG6mYbhsP-59" value="3.5 策略验证凭证&lt;div&gt;NHP-DPV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XNKHDg-uXlKhG6mYbhsP-59" value="3.5 证明验证证据&lt;div&gt;NHP-DAV&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="598" y="493.1600000000001" width="110" height="26.67" as="geometry" />
         </mxCell>
         <mxCell id="XNKHDg-uXlKhG6mYbhsP-60" value="" style="endArrow=classic;startArrow=none;html=1;rounded=0;strokeWidth=2;startFill=0;exitX=0.004;exitY=0.609;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XNKHDg-uXlKhG6mYbhsP-5" edge="1">
