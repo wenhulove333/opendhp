@@ -1433,10 +1433,10 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-36" value="key0混合teePub &amp;gt; key1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="10" y="345" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-37" value="key1混合SS0 &amp;gt; key2作为GCM keyA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-37" value="key1混合SS0 &amp;gt; key2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="10" y="405" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-39" value="使用keyA第一次加密数据对象私钥并添加hash2验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4CCBCD;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-39" value="使用key加密数据对象私钥并添加hash3验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4CCBCD;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="10" y="645" width="90" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-41" value="providerPriv和consumerEpub进行ECDH &amp;gt; SS1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ED9745;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
@@ -1448,17 +1448,16 @@
         <mxCell id="3kukBG5LMEMkLCgeNeW_-43" value="key2混合consumerEPub &amp;gt; key3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="10" y="525" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-44" value="key3混合SS1 &amp;gt; key4作为GCM keyB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-44" value="key3混合SS1 &amp;gt; key4作为GCM key" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0C431;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="10" y="585" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-45" value="使用keyB第二次加密数据对象私钥并添加hash3验证" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#4CCBCD;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
-          <mxGeometry x="10" y="730" width="90" height="85" as="geometry" />
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-48" value="KAO响应" style="rounded=1;whiteSpace=wrap;html=1;arcSize=29;fillColor=none;" parent="3kukBG5LMEMkLCgeNeW_-4" vertex="1">
           <mxGeometry x="60" y="860" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3kukBG5LMEMkLCgeNeW_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3kukBG5LMEMkLCgeNeW_-4" source="3kukBG5LMEMkLCgeNeW_-45" target="3kukBG5LMEMkLCgeNeW_-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3kukBG5LMEMkLCgeNeW_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.143;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="3kukBG5LMEMkLCgeNeW_-4" target="3kukBG5LMEMkLCgeNeW_-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="77.5" y="815" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3kukBG5LMEMkLCgeNeW_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="3kukBG5LMEMkLCgeNeW_-1" source="3kukBG5LMEMkLCgeNeW_-10" target="3kukBG5LMEMkLCgeNeW_-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
