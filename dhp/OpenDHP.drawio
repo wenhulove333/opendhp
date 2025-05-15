@@ -1559,7 +1559,7 @@
         <mxCell id="0ynp3grXhQ29tDDPvPkF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="0ynp3grXhQ29tDDPvPkF-3" source="0ynp3grXhQ29tDDPvPkF-22" target="0ynp3grXhQ29tDDPvPkF-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0ynp3grXhQ29tDDPvPkF-22" value="数据对象请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="0ynp3grXhQ29tDDPvPkF-3">
+        <mxCell id="0ynp3grXhQ29tDDPvPkF-22" value="处理数据对象请求" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="0ynp3grXhQ29tDDPvPkF-3">
           <mxGeometry x="50" y="40" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0ynp3grXhQ29tDDPvPkF-24" value="自我证明" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="0ynp3grXhQ29tDDPvPkF-3">
