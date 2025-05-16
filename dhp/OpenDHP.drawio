@@ -71,7 +71,7 @@
           <mxGeometry x="714" y="683" width="208" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-19" value="&lt;b&gt;DHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="757" y="700" width="120" height="39" as="geometry" />
+          <mxGeometry x="757" y="722" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-20" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1004" y="755" width="90" height="40" as="geometry" />
@@ -200,9 +200,6 @@
             <mxPoint x="499" y="482.00299999999993" as="sourcePoint" />
             <mxPoint x="499" y="416.05" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-51" value="数据策略执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="768" y="751" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-52" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="450" y="406" width="90" height="40" as="geometry" />
