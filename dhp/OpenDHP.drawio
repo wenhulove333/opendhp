@@ -1664,6 +1664,15 @@
         <mxCell id="45rNznvnFNeQfjL0Xzxr-42" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;13. AI应用将结果展示给用户&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="970" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="45rNznvnFNeQfjL0Xzxr-43" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;10. MCP-Client调用NHP-Agent在可信执行环境TEE中解封ZTDO数据对象成原始数据&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1240" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="45rNznvnFNeQfjL0Xzxr-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;11. MCP-Client对解密后数据通过大模型在可信执行环境TEE中对原始数据进行分析&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1270" width="640" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="45rNznvnFNeQfjL0Xzxr-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;12. 大模型分析后的结果返回给上层AI应用&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1300" width="640" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
