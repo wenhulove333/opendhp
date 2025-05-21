@@ -1677,7 +1677,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="隐私数据机密计算" id="BGhUw1BIcK3qPErtvr0Q">
-    <mxGraphModel dx="2825" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sQehgTyOtEV6BVX579VK-0" />
         <mxCell id="sQehgTyOtEV6BVX579VK-1" parent="sQehgTyOtEV6BVX579VK-0" />
@@ -1806,7 +1806,7 @@
           <mxGeometry x="36" y="60" width="220" height="175" as="geometry" />
         </mxCell>
         <mxCell id="b0XQvHP-ZXWXHfuakvbb-16" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;隐私计算一体机&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="b0XQvHP-ZXWXHfuakvbb-19">
-          <mxGeometry x="132" y="5" width="160" height="30" as="geometry" />
+          <mxGeometry x="142" y="8" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b0XQvHP-ZXWXHfuakvbb-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="b0XQvHP-ZXWXHfuakvbb-19">
           <mxGeometry x="30" y="65" width="220" height="175" as="geometry" />
