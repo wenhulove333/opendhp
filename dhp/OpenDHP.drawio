@@ -843,7 +843,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="peDsnemtCeF7s5hcOU0t" name="ztdo structure">
-    <mxGraphModel dx="2220" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -913,17 +913,11 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffdba9, #319eff);fontColor=#ffffff;strokeColor=default;container=0;" parent="1" vertex="1">
           <mxGeometry x="150" y="877" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-23" value="33-67" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;container=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="877" width="80" height="30" as="geometry" />
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-25" value="32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;container=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="892" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-24" value="Signer Public" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="877" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-25" value="64-132" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;container=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="907" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-26" value="Signature Body" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="907" width="240" height="30" as="geometry" />
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-26" value="Signature" style="rounded=0;whiteSpace=wrap;html=1;container=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="892" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-27" value="&lt;b&gt;Signature&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;container=0;" parent="1" vertex="1">
           <mxGeometry x="140" y="893" width="60" height="30" as="geometry" />
