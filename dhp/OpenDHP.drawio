@@ -843,7 +843,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="peDsnemtCeF7s5hcOU0t" name="ztdo structure">
-    <mxGraphModel dx="1351" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -870,7 +870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-7" value="IV+Ciphertext+MAC" style="rounded=0;whiteSpace=wrap;html=1;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-7" value="IV+Ciphertext" style="rounded=0;whiteSpace=wrap;html=1;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
           <mxGeometry x="130" y="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-8" value="&lt;b&gt;Payload&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
@@ -900,7 +900,7 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-18" value="3-16M" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B3B3B3;strokeColor=default;dashed=1;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
           <mxGeometry x="50" y="90" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-19" value="IV+Ciphertext+MAC" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-19" value="IV+Ciphertext" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="YrLO-aqX9tCabb8KfgJI-1" vertex="1">
           <mxGeometry x="130" y="90" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-ios7-more-128.png;imageBackground=none;" parent="1" vertex="1">
