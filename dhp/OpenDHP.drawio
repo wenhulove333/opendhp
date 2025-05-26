@@ -1117,8 +1117,8 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-109" value="&lt;b&gt;HAS_SIGNATURE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="150" y="1267" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-110" value="&lt;b&gt;Data ECC Parameter&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
-          <mxGeometry x="246.95" y="1253.29" width="107.66" height="20" as="geometry" />
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-110" value="&lt;b&gt;Data Key Pair ECC Parameter&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
+          <mxGeometry x="239.4" y="1238.8" width="143.05" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-111" value="&lt;b&gt;Symmetric Cypher Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="395.03" y="1250" width="112" height="20" as="geometry" />
