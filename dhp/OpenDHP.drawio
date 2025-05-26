@@ -843,7 +843,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="peDsnemtCeF7s5hcOU0t" name="ztdo structure">
-    <mxGraphModel dx="2220" dy="1223" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1084,13 +1084,13 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-98" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#b2d6ef, #ededed);" parent="1" vertex="1">
           <mxGeometry x="150" y="1324.98" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#b3b3b3, #ededed);" parent="1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-99" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffeca9, #ededed);" parent="1" vertex="1">
           <mxGeometry x="222" y="1324.98" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#b3b3b3, #ededed);" parent="1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-100" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffeca9, #ededed);" parent="1" vertex="1">
           <mxGeometry x="254" y="1324.98" width="32" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#b3b3b3, #ededed);" parent="1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-101" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffeca9, #ededed);" parent="1" vertex="1">
           <mxGeometry x="286" y="1324.98" width="32" height="32" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#d1bcd2, #ededed);" parent="1" vertex="1">
@@ -1108,7 +1108,7 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-106" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="165.38" y="1300.1" width="2.5" height="35.25" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-107" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-107" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=2;fillColor=light-dark(#ffeca9, #ededed);" parent="1" vertex="1">
           <mxGeometry x="265.49" y="1267" width="9.49" height="96" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-108" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=90;strokeWidth=2;" parent="1" vertex="1">
@@ -1117,8 +1117,8 @@
         <mxCell id="YrLO-aqX9tCabb8KfgJI-109" value="&lt;b&gt;HAS_SIGNATURE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="150" y="1267" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YrLO-aqX9tCabb8KfgJI-110" value="&lt;b&gt;Unused&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
-          <mxGeometry x="260.71000000000004" y="1279.72" width="43.12" height="20" as="geometry" />
+        <mxCell id="YrLO-aqX9tCabb8KfgJI-110" value="&lt;b&gt;Data ECC Parameter&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
+          <mxGeometry x="246.95" y="1253.29" width="107.66" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YrLO-aqX9tCabb8KfgJI-111" value="&lt;b&gt;Symmetric Cypher Mode&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;rotation=-55;" parent="1" vertex="1">
           <mxGeometry x="395.03" y="1250" width="112" height="20" as="geometry" />
