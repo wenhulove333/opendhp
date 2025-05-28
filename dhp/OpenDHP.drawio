@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="26.2.14" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.0.9" pages="13">
   <diagram name="arch" id="-2B2ailxkgt4oX6ftrqh">
     <mxGraphModel dx="1828" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1806,6 +1806,167 @@
         </mxCell>
         <mxCell id="b0XQvHP-ZXWXHfuakvbb-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;attestation-agent&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="sQehgTyOtEV6BVX579VK-1">
           <mxGeometry x="1070" y="825" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="一用一密" id="RJMbtT2AzcDOVp97tbHM">
+    <mxGraphModel dx="1018" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-0" />
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-1" parent="XWiH8geqtJOZEAMbBeXA-0" />
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="660" y="280" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="670.27" y="414" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#006600;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="210" y="280" width="270" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="XWiH8geqtJOZEAMbBeXA-1" source="XWiH8geqtJOZEAMbBeXA-5" target="XWiH8geqtJOZEAMbBeXA-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="703" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据对象&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="701.81" y="414" width="67.46" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="XWiH8geqtJOZEAMbBeXA-1" source="XWiH8geqtJOZEAMbBeXA-2" target="XWiH8geqtJOZEAMbBeXA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据资源提供方&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="798.27" y="280" width="127.73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-13" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="810" y="464" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-13">
+          <mxGeometry x="60" y="16" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-13">
+          <mxGeometry width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-16" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-13">
+          <mxGeometry x="24" y="20" width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="339.27" y="414" width="130" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据资源请求者&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="355.27" y="414" width="100" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-24" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="220" y="465" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-25" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-24">
+          <mxGeometry x="60" y="16" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-26" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-24">
+          <mxGeometry width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-27" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-24">
+          <mxGeometry x="24" y="20" width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-19" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="349.53999999999996" y="464" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-20" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-19">
+          <mxGeometry x="60" y="16" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-21" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-19">
+          <mxGeometry width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-22" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-19">
+          <mxGeometry x="24" y="20" width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-23" value="&lt;b&gt;临时公私钥对&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-19">
+          <mxGeometry x="17.629999999999995" y="42" width="74.73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-28" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信任执行环境&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006600;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="218.39999999999998" y="280" width="127.73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-29" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="535.16" y="438" width="77.69000000000005" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-30" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-29">
+          <mxGeometry x="6.840000000000032" width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-29">
+          <mxGeometry y="47.5" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-32" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;公钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-29">
+          <mxGeometry x="41.84000000000003" y="1" width="35.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-33" value="&lt;font style=&quot;font-size: 12px; color: rgb(255, 0, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-29">
+          <mxGeometry x="41.84000000000003" y="50" width="35.85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-34" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="507" y="326" width="129" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="JaX8oLRp3FjuAr1M6GNa-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="XWiH8geqtJOZEAMbBeXA-34" source="XWiH8geqtJOZEAMbBeXA-35" target="XWiH8geqtJOZEAMbBeXA-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-35" value="" style="shape=rect;fillColor=#006600;aspect=fixed;resizable=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;strokeColor=none;fontSize=14;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-34">
+          <mxGeometry width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-36" value="" style="fillColor=#FFFFFF;strokeColor=none;dashed=0;outlineConnect=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;part=1;movable=0;resizable=0;rotatable=0;shape=mxgraph.ibm_cloud.ibm-cloud--key-protect" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-35">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="12" y="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-37" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;加密数据私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-34">
+          <mxGeometry x="56" y="4" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-38" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="367" y="332.5" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据对象私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="400.42" y="336" width="79.58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-40" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="230" y="334" width="87" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-41" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-40">
+          <mxGeometry width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-42" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据资源提供者公钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-40">
+          <mxGeometry x="17" y="1" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-43" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="830" y="340" width="87" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-44" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-43">
+          <mxGeometry width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-45" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;可信任执行环境公钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-43">
+          <mxGeometry x="17" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-46" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="830" y="383" width="87" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-47" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-46">
+          <mxGeometry width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-48" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据资源请求者临时公钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-46">
+          <mxGeometry x="17" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="740.54" y="480" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="680.54" y="464" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-10" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="704.54" y="484" width="14.15" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DwflcvoOCFVeY_p4_FuU-0" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#FF0000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.data_encryption_key;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="670.27" y="305" width="27.82" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="DwflcvoOCFVeY_p4_FuU-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据对象私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+          <mxGeometry x="701.81" y="307.5" width="79.58" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
