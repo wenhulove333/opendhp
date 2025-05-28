@@ -1815,7 +1815,7 @@
       <root>
         <mxCell id="XWiH8geqtJOZEAMbBeXA-0" />
         <mxCell id="XWiH8geqtJOZEAMbBeXA-1" parent="XWiH8geqtJOZEAMbBeXA-0" />
-        <mxCell id="XWiH8geqtJOZEAMbBeXA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#006600;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
           <mxGeometry x="660" y="280" width="270" height="280" as="geometry" />
         </mxCell>
         <mxCell id="XWiH8geqtJOZEAMbBeXA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
@@ -1837,7 +1837,7 @@
         <mxCell id="XWiH8geqtJOZEAMbBeXA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="XWiH8geqtJOZEAMbBeXA-1" source="XWiH8geqtJOZEAMbBeXA-2" target="XWiH8geqtJOZEAMbBeXA-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWiH8geqtJOZEAMbBeXA-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据资源提供方&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
+        <mxCell id="XWiH8geqtJOZEAMbBeXA-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;数据资源提供方&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="XWiH8geqtJOZEAMbBeXA-1">
           <mxGeometry x="798.27" y="280" width="127.73" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XWiH8geqtJOZEAMbBeXA-13" value="" style="group" vertex="1" connectable="0" parent="XWiH8geqtJOZEAMbBeXA-1">
