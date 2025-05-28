@@ -1811,7 +1811,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="隐私数据机密计算PPT版本" id="NIKesqpu3vyLfSYsKpAC">
-    <mxGraphModel dx="1018" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1357" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kVR2INDP9H5pYFzLznca-0" />
         <mxCell id="kVR2INDP9H5pYFzLznca-1" parent="kVR2INDP9H5pYFzLznca-0" />
@@ -1918,13 +1918,13 @@
         <mxCell id="kVR2INDP9H5pYFzLznca-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Kata Runtime&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
           <mxGeometry x="950" y="953" width="220" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="kVR2INDP9H5pYFzLznca-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#999999;strokeWidth=2;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
+        <mxCell id="kVR2INDP9H5pYFzLznca-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
           <mxGeometry x="957" y="691" width="220" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="kVR2INDP9H5pYFzLznca-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#4D4D4D;strokeWidth=2;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
+        <mxCell id="kVR2INDP9H5pYFzLznca-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#006600;strokeWidth=2;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
           <mxGeometry x="954" y="695" width="220" height="175" as="geometry" />
         </mxCell>
-        <mxCell id="kVR2INDP9H5pYFzLznca-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#000000;strokeWidth=3;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
+        <mxCell id="kVR2INDP9H5pYFzLznca-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#006600;strokeWidth=3;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
           <mxGeometry x="950" y="700" width="220" height="175" as="geometry" />
         </mxCell>
         <mxCell id="kVR2INDP9H5pYFzLznca-32" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;隐私计算一体机&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="kVR2INDP9H5pYFzLznca-1">
