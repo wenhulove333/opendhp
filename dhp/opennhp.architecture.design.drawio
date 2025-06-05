@@ -44,6 +44,12 @@
         <mxCell id="dzqzgqo6WXaDwN_nYjMx-20" value="&lt;div&gt;+ stats struct {&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp;totalRecvBytes uint64&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp;totalSendBytes uint64&lt;/div&gt;&lt;div&gt;+ }&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ config *Config&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ device&amp;nbsp; *core.Device&lt;/div&gt;&lt;div&gt;+ wg&amp;nbsp; &amp;nbsp; &amp;nbsp; sync.WaitGroup&lt;/div&gt;&lt;div&gt;+ running atomic.Bool&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ recvMsgCh &amp;lt;-chan *core.PacketParserData&lt;/div&gt;&lt;div&gt;+ sendMsgCh chan *core.MsgData&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ xxxPeerMutex sync.Mutex&lt;/div&gt;&lt;div&gt;+ xxxPeerMap&amp;nbsp; &amp;nbsp;map[string]*core.UdpPeer // indexed by server&#39;s public key&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ signals struct {&lt;/div&gt;&lt;div&gt;+&amp;nbsp; &amp;nbsp;stop chan struct{}&lt;/div&gt;&lt;div&gt;+ }&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="dzqzgqo6WXaDwN_nYjMx-19">
           <mxGeometry y="50" width="390" height="390" as="geometry" />
         </mxCell>
+        <mxCell id="dzqzgqo6WXaDwN_nYjMx-23" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="aG8UcZv4t0vJflEihgxj-2" target="dzqzgqo6WXaDwN_nYjMx-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="480" as="sourcePoint" />
+            <mxPoint x="960" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
