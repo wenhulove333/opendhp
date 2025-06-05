@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="existing architectrure" id="fGJeN8V92Lidl0LPt1Ot">
-    <mxGraphModel dx="1480" dy="815" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2590" dy="1427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,22 @@
         </mxCell>
         <mxCell id="dzqzgqo6WXaDwN_nYjMx-8" value="&lt;div&gt;+ sync.Mutex&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ PubKeyBase64 string `json:&quot;pubKeyBase64&quot;`&lt;/div&gt;&lt;div&gt;+ Hostname&amp;nbsp; &amp;nbsp; &amp;nbsp;string `json:&quot;host,omitempty&quot;`&lt;/div&gt;&lt;div&gt;+ Ip&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string `json:&quot;ip&quot;` // static ip, it may be different from primaryResolvedIp&lt;/div&gt;&lt;div&gt;+ Port&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int&amp;nbsp; &amp;nbsp; `json:&quot;port&quot;`&lt;/div&gt;&lt;div&gt;+ Type&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;int&amp;nbsp; &amp;nbsp; `json:&quot;type&quot;`&lt;/div&gt;&lt;div&gt;+ ExpireTime&amp;nbsp; &amp;nbsp;int64&amp;nbsp; `json:&quot;expireTime&quot;`&lt;/div&gt;&lt;div&gt;+ name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;string&lt;/div&gt;&lt;div&gt;+ pubKey&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;[]byte&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+ lastSendTime&amp;nbsp; &amp;nbsp; &amp;nbsp; int64&lt;/div&gt;&lt;div&gt;+ lastRecvTime&amp;nbsp; &amp;nbsp; &amp;nbsp; int64&lt;/div&gt;&lt;div&gt;+ lastNSLookupTime&amp;nbsp; int64&lt;/div&gt;&lt;div&gt;+ resolvedIpArr&amp;nbsp; &amp;nbsp; &amp;nbsp;[]string&lt;/div&gt;&lt;div&gt;+ primaryResolvedIp string&lt;/div&gt;&lt;div&gt;+ recvAddr&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; *net.UDPAddr&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;whiteSpace=wrap;" vertex="1" parent="dzqzgqo6WXaDwN_nYjMx-7">
           <mxGeometry y="50" width="390" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="dzqzgqo6WXaDwN_nYjMx-15" value="&lt;b&gt;Relation&lt;/b&gt;" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="dzqzgqo6WXaDwN_nYjMx-6" target="dzqzgqo6WXaDwN_nYjMx-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="380" as="sourcePoint" />
+            <mxPoint x="710" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzqzgqo6WXaDwN_nYjMx-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="dzqzgqo6WXaDwN_nYjMx-15">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-5" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dzqzgqo6WXaDwN_nYjMx-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;1..n&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="dzqzgqo6WXaDwN_nYjMx-15">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="10" y="-39" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
