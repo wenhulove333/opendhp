@@ -2541,7 +2541,12 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-35" value="建立基于噪声协议的加密数据通道" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="RUoOVNttjiXCdBeknghn-7" vertex="1">
           <mxGeometry x="40" y="489" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="N9zYfjbbjesal5AcRGvB-5" value="智能数据策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-7">
+        <mxCell id="N9zYfjbbjesal5AcRGvB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="RUoOVNttjiXCdBeknghn-7" source="N9zYfjbbjesal5AcRGvB-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N9zYfjbbjesal5AcRGvB-5" value="持续验证智能数据策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-7">
           <mxGeometry x="40" y="550" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-8" value="NHP服务器" style="swimlane;startSize=20;html=1;" parent="RUoOVNttjiXCdBeknghn-6" vertex="1">
