@@ -2511,6 +2511,9 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-17" value="请求流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-7">
           <mxGeometry x="40" y="180" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-30" value="请求流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-7">
+          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-8" value="NHP服务器" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
           <mxGeometry x="200" y="20" width="200" height="760" as="geometry" />
         </mxCell>
@@ -2529,8 +2532,11 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-18" value="自我证明" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
           <mxGeometry x="40" y="180" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RUoOVNttjiXCdBeknghn-21" value="请求密钥封装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
+        <mxCell id="RUoOVNttjiXCdBeknghn-21" value="请求数据对象私钥封装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
           <mxGeometry x="40" y="247" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-28" value="获取数据对象私钥封装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
+          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-10" value="NHP数据经纪件" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
           <mxGeometry x="400" y="20" width="200" height="760" as="geometry" />
@@ -2541,6 +2547,15 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-15" value="流式数据发布成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
           <mxGeometry x="40" y="112" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-10" source="RUoOVNttjiXCdBeknghn-24" target="RUoOVNttjiXCdBeknghn-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-24" value="生成数据对象私钥封装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
+          <mxGeometry x="40" y="247" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-26" value="返回数据对象私钥封装" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
+          <mxGeometry x="40" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-11" target="RUoOVNttjiXCdBeknghn-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="80.23809523809518" as="targetPoint" />
@@ -2550,6 +2565,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-17" target="RUoOVNttjiXCdBeknghn-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-21" target="RUoOVNttjiXCdBeknghn-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-26" target="RUoOVNttjiXCdBeknghn-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
