@@ -2555,8 +2555,8 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="RUoOVNttjiXCdBeknghn-8" source="RUoOVNttjiXCdBeknghn-9" target="RUoOVNttjiXCdBeknghn-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RUoOVNttjiXCdBeknghn-9" value="存储流式数据对象信息包括提供服务的DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="RUoOVNttjiXCdBeknghn-8" vertex="1">
-          <mxGeometry x="39.999999999999545" y="40" width="120" height="40" as="geometry" />
+        <mxCell id="RUoOVNttjiXCdBeknghn-9" value="存储流式数据对象信息包括提供服务的NHP-DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="RUoOVNttjiXCdBeknghn-8" vertex="1">
+          <mxGeometry x="40" y="30" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-13" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="RUoOVNttjiXCdBeknghn-8" vertex="1">
           <mxGeometry x="40" y="118" width="120" height="40" as="geometry" />
@@ -2580,7 +2580,7 @@
           <mxGeometry x="638" y="20" width="200" height="620" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-11" value="发布流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" parent="RUoOVNttjiXCdBeknghn-10" vertex="1">
-          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="36" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-15" value="流式数据发布成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" parent="RUoOVNttjiXCdBeknghn-10" vertex="1">
           <mxGeometry x="40" y="118" width="120" height="40" as="geometry" />
