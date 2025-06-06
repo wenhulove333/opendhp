@@ -2523,7 +2523,7 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-13" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
           <mxGeometry x="40" y="112" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RUoOVNttjiXCdBeknghn-18" value="存储流式数据对象信息包括提供服务的DB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
+        <mxCell id="RUoOVNttjiXCdBeknghn-18" value="检查流式数据对象是否存在" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
           <mxGeometry x="40" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-10" value="NHP数据经纪件" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
