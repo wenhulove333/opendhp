@@ -2550,8 +2550,14 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-8" value="NHP服务器" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
           <mxGeometry x="200" y="20" width="200" height="460" as="geometry" />
         </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-8" source="RUoOVNttjiXCdBeknghn-9" target="RUoOVNttjiXCdBeknghn-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-9" value="存储流式数据对象信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
           <mxGeometry x="39.999999999999545" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-13" value="返回结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-8">
+          <mxGeometry x="40" y="112" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-10" value="NHP数据经纪件" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
           <mxGeometry x="400" y="20" width="200" height="460" as="geometry" />
@@ -2559,10 +2565,16 @@
         <mxCell id="RUoOVNttjiXCdBeknghn-11" value="发布流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-15" value="流式数据发布成功" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
+          <mxGeometry x="40" y="112" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-11" target="RUoOVNttjiXCdBeknghn-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="80.23809523809518" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-6" source="RUoOVNttjiXCdBeknghn-13" target="RUoOVNttjiXCdBeknghn-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
