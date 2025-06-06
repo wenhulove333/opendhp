@@ -2503,10 +2503,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RUoOVNttjiXCdBeknghn-6" value="流式数据发布和使用" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="819" height="780" as="geometry" />
+          <mxGeometry x="130" y="120" width="819" height="690" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-7" value="NHP代理" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
-          <mxGeometry y="20" width="219" height="760" as="geometry" />
+          <mxGeometry y="20" width="219" height="670" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-17" value="请求流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-7">
           <mxGeometry x="40" y="190" width="120" height="40" as="geometry" />
@@ -2527,7 +2527,7 @@
           <mxGeometry x="40" y="489" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-8" value="NHP服务器" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
-          <mxGeometry x="219" y="20" width="200" height="760" as="geometry" />
+          <mxGeometry x="219" y="20" width="200" height="670" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="RUoOVNttjiXCdBeknghn-8" source="RUoOVNttjiXCdBeknghn-9" target="RUoOVNttjiXCdBeknghn-13">
           <mxGeometry relative="1" as="geometry" />
@@ -2551,7 +2551,7 @@
           <mxGeometry x="40" y="334" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-10" value="NHP数据经纪件" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
-          <mxGeometry x="419" y="20" width="200" height="760" as="geometry" />
+          <mxGeometry x="419" y="20" width="200" height="670" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-11" value="发布流式数据对象" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="RUoOVNttjiXCdBeknghn-10">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
@@ -2575,7 +2575,7 @@
           <mxGeometry x="40" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-57" value="流式数据服务" style="swimlane;startSize=20;html=1;" vertex="1" parent="RUoOVNttjiXCdBeknghn-6">
-          <mxGeometry x="619" y="20" width="200" height="760" as="geometry" />
+          <mxGeometry x="619" y="20" width="200" height="670" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-58" value="数据服务API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RUoOVNttjiXCdBeknghn-57">
           <mxGeometry x="40" y="489" width="120" height="40" as="geometry" />
@@ -2610,19 +2610,31 @@
           <mxGeometry x="1560" y="400" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-63" value="&lt;b&gt;NHP代理&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1655" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="1650" y="620" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-64" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="400" width="300" height="210" as="geometry" />
+          <mxGeometry x="2440" y="400" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-65" value="&lt;b&gt;NHP数据经纪件&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2215" y="420" width="110" height="30" as="geometry" />
+          <mxGeometry x="2535" y="620" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-66" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="1559.9999999999995" y="130" width="300" height="210" as="geometry" />
         </mxCell>
         <mxCell id="RUoOVNttjiXCdBeknghn-67" value="&lt;b&gt;可信应用&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1654.9999999999995" y="150" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2879.9999999999995" y="400" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-69" value="&lt;b&gt;数据服务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2974.9999999999995" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-70" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="400" width="300" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="RUoOVNttjiXCdBeknghn-71" value="&lt;b&gt;NHP服务器&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2094.9999999999995" y="360" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
