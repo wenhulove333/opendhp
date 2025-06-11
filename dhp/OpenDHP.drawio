@@ -2706,7 +2706,7 @@
       <root>
         <mxCell id="PZICld0MDIewaMIW69fX-0" />
         <mxCell id="PZICld0MDIewaMIW69fX-1" parent="PZICld0MDIewaMIW69fX-0" />
-        <mxCell id="HpGFSvMRJk1283WNEn88-0" value="数据流动图" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="PZICld0MDIewaMIW69fX-1">
+        <mxCell id="HpGFSvMRJk1283WNEn88-0" value="在线模式数据流动" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="PZICld0MDIewaMIW69fX-1">
           <mxGeometry x="560" y="400" width="1038" height="700" as="geometry" />
         </mxCell>
         <mxCell id="HpGFSvMRJk1283WNEn88-1" value="可信应用" style="swimlane;startSize=20;html=1;" vertex="1" parent="HpGFSvMRJk1283WNEn88-0">
