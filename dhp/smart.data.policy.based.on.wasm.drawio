@@ -4,6 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uTg2soy5fG2xS7olu24i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="359.99999999999955" y="490" width="300" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="uTg2soy5fG2xS7olu24i-2" value="&lt;b&gt;智能策略中心&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="454.99999999999955" y="504" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
