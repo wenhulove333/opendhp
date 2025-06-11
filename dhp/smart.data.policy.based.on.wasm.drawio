@@ -51,8 +51,10 @@
         <mxCell id="uTg2soy5fG2xS7olu24i-15" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;WASM策略分发和管理模块&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="782" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uTg2soy5fG2xS7olu24i-17" target="uTg2soy5fG2xS7olu24i-48">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uTg2soy5fG2xS7olu24i-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="uTg2soy5fG2xS7olu24i-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="891" y="950" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uTg2soy5fG2xS7olu24i-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
           <mxGeometry x="701" y="490" width="380" height="410" as="geometry" />
@@ -117,8 +119,11 @@
         <mxCell id="uTg2soy5fG2xS7olu24i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="uTg2soy5fG2xS7olu24i-39" target="uTg2soy5fG2xS7olu24i-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-48" value="&lt;b&gt;安全合规数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="849" y="950" width="84" height="24" as="geometry" />
+        <mxCell id="uTg2soy5fG2xS7olu24i-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="831.5" y="950" width="119" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uTg2soy5fG2xS7olu24i-51" value="&lt;b&gt;安全合规数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="837.5" y="959" width="113" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
