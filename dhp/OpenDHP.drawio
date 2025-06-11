@@ -2706,7 +2706,7 @@
       <root>
         <mxCell id="PZICld0MDIewaMIW69fX-0" />
         <mxCell id="PZICld0MDIewaMIW69fX-1" parent="PZICld0MDIewaMIW69fX-0" />
-        <mxCell id="PZICld0MDIewaMIW69fX-2" value="流式数据发布和使用" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="PZICld0MDIewaMIW69fX-1">
+        <mxCell id="PZICld0MDIewaMIW69fX-2" value="DHP标准数据流向" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="PZICld0MDIewaMIW69fX-1">
           <mxGeometry x="650" y="270" width="1038" height="640" as="geometry" />
         </mxCell>
         <mxCell id="PZICld0MDIewaMIW69fX-3" value="可信应用" style="swimlane;startSize=20;html=1;" vertex="1" parent="PZICld0MDIewaMIW69fX-2">
