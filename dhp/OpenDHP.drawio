@@ -2892,37 +2892,37 @@
         <mxCell id="eXy3A7TfBjF2OTzI_1Ad-9" value="计数器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ffccff, #ededed);" vertex="1" parent="1">
           <mxGeometry x="810" y="240" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-10" value="随机公钥" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-10" value="随机公钥明文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1050" y="240" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-11" value="随机公钥" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-11" value="随机公钥明文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="270" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-12" value="随机公钥" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-12" value="随机公钥明文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#fee599, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="300" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-13" value="发送者标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-13" value="发送者标识密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1050" y="300" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-14" value="发送者标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-14" value="发送者标识密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="330" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-15" value="发送者标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-15" value="发送者标识密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-16" value="发送者标识" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-16" value="发送者标识密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#f7cbac, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="390" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-17" value="发送者声明公钥密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-18" value="发送者声明公钥密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-19" value="发送者声明公钥密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#c5e0b3, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="690" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#92d050, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-20" value="时间戳明文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#92d050, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1050" y="450" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eXy3A7TfBjF2OTzI_1Ad-21" value="HMAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#dae2f3, #ededed);" vertex="1" parent="1">
