@@ -2925,10 +2925,10 @@
         <mxCell id="eXy3A7TfBjF2OTzI_1Ad-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#92d050, #ededed);" vertex="1" parent="1">
           <mxGeometry x="1050" y="450" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#dae2f3, #ededed);" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-21" value="HMAC" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#dae2f3, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="930" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eXy3A7TfBjF2OTzI_1Ad-22" value="消息密文" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#bdd0e9, #ededed);" vertex="1" parent="1">
           <mxGeometry x="360" y="510" width="930" height="30" as="geometry" />
         </mxCell>
       </root>
