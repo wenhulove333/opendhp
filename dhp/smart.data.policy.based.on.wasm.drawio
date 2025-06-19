@@ -110,17 +110,10 @@
         <mxCell id="uTg2soy5fG2xS7olu24i-43" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据访问服务/接口&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="923.5" y="546" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pyRV8o6GaDdrV80UqqoJ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uTg2soy5fG2xS7olu24i-45" target="uTg2soy5fG2xS7olu24i-42">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-45" value="宿主环境提供的功能，比如数据请求，数据加解密，生成审计日志。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;" parent="1" vertex="1">
-          <mxGeometry x="721" y="543" width="160" height="95" as="geometry" />
-        </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-46" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;安全操作执行器&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="743.5" y="546" width="115" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="uTg2soy5fG2xS7olu24i-39" target="uTg2soy5fG2xS7olu24i-45" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="uTg2soy5fG2xS7olu24i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uTg2soy5fG2xS7olu24i-39" target="uTg2soy5fG2xS7olu24i-42" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="721" y="590.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="uTg2soy5fG2xS7olu24i-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="831.5" y="950" width="119" height="40" as="geometry" />
