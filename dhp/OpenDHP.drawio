@@ -3178,6 +3178,9 @@
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-65" value="&lt;b&gt;可信应用&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="853.03" y="704" width="57.94" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-66" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+          <mxGeometry x="610" y="689.5" width="53" height="53" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
