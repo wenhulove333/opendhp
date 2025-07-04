@@ -3045,7 +3045,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BTd6n71CgX2u7F9jMpRQ" name="dhp scenarios">
-    <mxGraphModel dx="888" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3136,7 +3136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-29" value="&lt;b&gt;数据资源提供方&lt;/b&gt;&lt;div&gt;&lt;b&gt;（&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;公安&lt;/font&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460.03" y="650" width="105" height="30" as="geometry" />
+          <mxGeometry x="1470" y="494" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.965;exitY=0.305;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -3177,21 +3177,6 @@
             <mxPoint x="1246.5" y="976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-47" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1396.03" y="524" width="245.97" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-48" value="&lt;b&gt;NHP服务器与DHP DB的访问记录、流量日志、安全日志等&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1439" y="566" width="176" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-49" value="" style="endArrow=block;startArrow=none;html=1;rounded=0;strokeWidth=2;endFill=0;startFill=0;exitX=0.692;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3MQkVEfuTor0NhQ7UQPQ-10" target="3MQkVEfuTor0NhQ7UQPQ-47">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1238.97" y="766" as="sourcePoint" />
-            <mxPoint x="1301" y="702" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1286" y="579" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1.102;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.875;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" target="3MQkVEfuTor0NhQ7UQPQ-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -3213,15 +3198,6 @@
         </mxCell>
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-55" value="&lt;b&gt;可信执行环境&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="3MQkVEfuTor0NhQ7UQPQ-51">
           <mxGeometry x="-61.02999999999997" y="-117" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1395" y="641" as="sourcePoint" />
-            <mxPoint x="1649" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="3MQkVEfuTor0NhQ7UQPQ-57" value="&lt;b&gt;数据资源监管方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1460.03" y="494" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3MQkVEfuTor0NhQ7UQPQ-58" value="&lt;b&gt;DHP服务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1171" y="494" width="105" height="30" as="geometry" />
