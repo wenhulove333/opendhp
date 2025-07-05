@@ -3180,6 +3180,12 @@
         <mxCell id="XV8dHTQ5eMluspZerbei-16" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;远程证明&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1030" y="863" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-17" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;封装密钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="993" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-18" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;封装密钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="893" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
