@@ -3171,6 +3171,18 @@
         <mxCell id="XV8dHTQ5eMluspZerbei-18" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;封装密钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1030" y="893" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-22" value="" style="group;textShadow=1;fontColor=#006600;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="730" y="840" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-23" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;textShadow=1;fontColor=#006600;" vertex="1" parent="XV8dHTQ5eMluspZerbei-22">
+          <mxGeometry width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-24" value="&lt;b&gt;零信任数据对象ZTDO&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textShadow=1;fontColor=#006600;" vertex="1" parent="XV8dHTQ5eMluspZerbei-22">
+          <mxGeometry x="6" y="9" width="84" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="XV8dHTQ5eMluspZerbei-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="XV8dHTQ5eMluspZerbei-23" target="XV8dHTQ5eMluspZerbei-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
