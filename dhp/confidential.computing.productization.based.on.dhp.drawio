@@ -70,6 +70,12 @@
         <mxCell id="WrHtqx_JnAegKuw27bFA-13" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;制作发布&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&lt;b&gt;加密镜像&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1235" y="355" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="WrHtqx_JnAegKuw27bFA-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;strokeColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="634" y="264.5" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="WrHtqx_JnAegKuw27bFA-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Kata Agent&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="639" y="274.5" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
