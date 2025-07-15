@@ -13,6 +13,9 @@
         <mxCell id="sAuVCd9SCb6oK_chuftu-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;k8s&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="440" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="sAuVCd9SCb6oK_chuftu-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信容器&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="400" width="220" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
