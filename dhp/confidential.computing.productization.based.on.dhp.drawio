@@ -37,7 +37,7 @@
         <mxCell id="sAuVCd9SCb6oK_chuftu-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;NHP代理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sAuVCd9SCb6oK_chuftu-10" vertex="1">
           <mxGeometry x="8" width="48" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="WrHtqx_JnAegKuw27bFA-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信环境&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="WrHtqx_JnAegKuw27bFA-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信平台&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="870" y="520" width="530" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WrHtqx_JnAegKuw27bFA-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;主机OS&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
