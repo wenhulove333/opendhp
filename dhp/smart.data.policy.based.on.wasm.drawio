@@ -16,7 +16,7 @@
         <mxCell id="uTg2soy5fG2xS7olu24i-3" value="根据原始数据的访问要求，基于WASI规范编写智能策略" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=bottom;" parent="1" vertex="1">
           <mxGeometry x="380" y="545" width="160" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="uTg2soy5fG2xS7olu24i-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;智能策略设计编写&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="uTg2soy5fG2xS7olu24i-4" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b style=&quot;&quot;&gt;智能策略管理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="415" y="548" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uTg2soy5fG2xS7olu24i-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="uTg2soy5fG2xS7olu24i-5" target="uTg2soy5fG2xS7olu24i-14" edge="1">
