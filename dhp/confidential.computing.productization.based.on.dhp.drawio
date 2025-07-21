@@ -158,13 +158,13 @@
           <mxGeometry x="825" y="560" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HK3tHOD_aIXclgFx9gpc-1" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2000" y="760" width="130" height="40" as="geometry" />
+          <mxGeometry x="2000" y="760" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HK3tHOD_aIXclgFx9gpc-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="HK3tHOD_aIXclgFx9gpc-1">
-          <mxGeometry width="130" height="40" as="geometry" />
+          <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HK3tHOD_aIXclgFx9gpc-3" value="&lt;b&gt;目标资源&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HK3tHOD_aIXclgFx9gpc-1">
-          <mxGeometry x="36.03" y="8" width="57.94" height="24" as="geometry" />
+        <mxCell id="HK3tHOD_aIXclgFx9gpc-3" value="目标资源&lt;div&gt;&lt;b&gt;（tcp://10.150.12.12:1000）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HK3tHOD_aIXclgFx9gpc-1">
+          <mxGeometry x="49.89" y="8" width="80.11" height="24" as="geometry" />
         </mxCell>
         <mxCell id="HK3tHOD_aIXclgFx9gpc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="HK3tHOD_aIXclgFx9gpc-14" target="HK3tHOD_aIXclgFx9gpc-2">
           <mxGeometry relative="1" as="geometry" />
