@@ -169,6 +169,15 @@
         <mxCell id="HK3tHOD_aIXclgFx9gpc-5" value="目标资源访问代理&lt;div&gt;（&lt;b&gt;TCP/UDP&lt;/b&gt;）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="1">
           <mxGeometry x="1630" y="760" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="HK3tHOD_aIXclgFx9gpc-6" value="访问目标资源" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HK3tHOD_aIXclgFx9gpc-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="HK3tHOD_aIXclgFx9gpc-7" target="HK3tHOD_aIXclgFx9gpc-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HK3tHOD_aIXclgFx9gpc-7" value="目标资源访问代理&lt;div&gt;（&lt;b&gt;TCP/UDP&lt;/b&gt;）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;arcSize=48;absoluteArcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
