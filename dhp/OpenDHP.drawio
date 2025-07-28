@@ -2365,7 +2365,7 @@
           <mxGeometry x="951" y="280" width="279" height="336" as="geometry" />
         </mxCell>
         <mxCell id="ecXc-NU--LuX6B5N6La8-32" value="&lt;div&gt;&lt;font&gt;&lt;b&gt;Authorization Service Provider&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;（Authentication, Authorization, Key Management Service, Policy Access Service）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ecXc-NU--LuX6B5N6La8-1" vertex="1">
-          <mxGeometry x="1006" y="336" width="180" height="120" as="geometry" />
+          <mxGeometry x="1010" y="346" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ecXc-NU--LuX6B5N6La8-33" value="AA" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="ecXc-NU--LuX6B5N6La8-1" vertex="1">
           <mxGeometry x="1143" y="505" width="60" height="30" as="geometry" />
@@ -2396,9 +2396,9 @@
             <mxPoint x="540" y="823" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ecXc-NU--LuX6B5N6La8-41" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据对象加解密&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-40" vertex="1" connectable="0">
+        <mxCell id="ecXc-NU--LuX6B5N6La8-41" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Encrytion and Decryption of&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp;Data Object&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-40" vertex="1" connectable="0">
           <mxGeometry x="-0.0653" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ecXc-NU--LuX6B5N6La8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;" parent="ecXc-NU--LuX6B5N6La8-1" edge="1">
@@ -2407,7 +2407,7 @@
             <mxPoint x="540" y="778" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ecXc-NU--LuX6B5N6La8-43" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支撑服务&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-42" vertex="1" connectable="0">
+        <mxCell id="ecXc-NU--LuX6B5N6La8-43" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Enabling Services&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-42" vertex="1" connectable="0">
           <mxGeometry x="-0.0094" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
@@ -2418,9 +2418,9 @@
             <mxPoint x="540" y="728" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ecXc-NU--LuX6B5N6La8-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NHP控制消息&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据对象私钥封装传输&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-44" vertex="1" connectable="0">
+        <mxCell id="ecXc-NU--LuX6B5N6La8-45" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;NHP Control Mesage&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Encapsulated Transmission of&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;Data Object Private Key&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ecXc-NU--LuX6B5N6La8-44" vertex="1" connectable="0">
           <mxGeometry x="-0.0527" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="3" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ecXc-NU--LuX6B5N6La8-46" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;entryX=0.507;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endFill=0;startFill=0;" parent="ecXc-NU--LuX6B5N6La8-1" target="ecXc-NU--LuX6B5N6La8-31" edge="1">
