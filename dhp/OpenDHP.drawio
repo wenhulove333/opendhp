@@ -3668,7 +3668,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BlZEV0Yi-2AQF6nNkLHB" name="RFC9334">
-    <mxGraphModel dx="1295" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3706,6 +3706,9 @@
         </mxCell>
         <mxCell id="N2hop99cuDoKiTkKSKXV-10" value="基于证明结果做决策" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="N2hop99cuDoKiTkKSKXV-11" value="评估结果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="844" y="275" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
