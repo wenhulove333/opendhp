@@ -3714,7 +3714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DHP远程证明" id="eVm-k5U-M3tUeA_SE87I">
-    <mxGraphModel dx="1198" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="1124" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Hc130SN91BSNJIBccRUZ-0" />
         <mxCell id="Hc130SN91BSNJIBccRUZ-1" parent="Hc130SN91BSNJIBccRUZ-0" />
@@ -3722,90 +3722,90 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#006600;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="365.5" y="242" width="170" height="240" as="geometry" />
+          <mxGeometry x="360" y="482" width="170" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-3" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="375.5" y="353" width="150" height="100" as="geometry" />
+          <mxGeometry x="370" y="593" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-4" value="&lt;b&gt;证明方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="403" y="124" width="95" height="30" as="geometry" />
+          <mxGeometry x="397.5" y="364" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-8" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Agent）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="390.5" y="388" width="120" height="30" as="geometry" />
+          <mxGeometry x="385" y="628" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-10" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604" y="600" as="sourcePoint" />
-            <mxPoint x="604" y="120" as="targetPoint" />
+            <mxPoint x="598.5" y="840" as="sourcePoint" />
+            <mxPoint x="598.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="899.5" y="322" as="sourcePoint" />
-            <mxPoint x="1030" y="322" as="targetPoint" />
+            <mxPoint x="894" y="562" as="sourcePoint" />
+            <mxPoint x="1024.5" y="562" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="689.5" y="242" width="210" height="240" as="geometry" />
+          <mxGeometry x="684" y="482" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-12" value="&lt;b&gt;NHP服务器/集群&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="739.5" y="273" width="110" height="30" as="geometry" />
+          <mxGeometry x="734" y="513" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-13" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="719.5" y="357" width="150" height="96" as="geometry" />
+          <mxGeometry x="714" y="597" width="150" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-14" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="735" y="389" width="120" height="30" as="geometry" />
+          <mxGeometry x="729.5" y="629" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1" source="Ul80qmY6RzlD6tOj8mos-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="964" y="890" as="sourcePoint" />
-            <mxPoint x="964" y="120" as="targetPoint" />
+            <mxPoint x="958.5" y="1130" as="sourcePoint" />
+            <mxPoint x="958.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-58" value="&lt;b&gt;验证方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="1070" y="124" width="105" height="30" as="geometry" />
+          <mxGeometry x="1064.5" y="364" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hc130SN91BSNJIBccRUZ-59" value="&lt;b&gt;依赖方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="742" y="124" width="105" height="30" as="geometry" />
+          <mxGeometry x="736.5" y="364" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-0" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;TEE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="415.5" y="252" width="70" height="30" as="geometry" />
+          <mxGeometry x="410" y="492" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.004;exitY=0.663;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1" source="Ul80qmY6RzlD6tOj8mos-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="900" y="402" as="targetPoint" />
+            <mxPoint x="894.5" y="642" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="401" />
+              <mxPoint x="894.5" y="641" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="1030" y="242" width="210" height="240" as="geometry" />
+          <mxGeometry x="1024.5" y="482" width="210" height="240" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-2" value="&lt;b&gt;可信硬件提供商&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="1080" y="273" width="110" height="30" as="geometry" />
+          <mxGeometry x="1074.5" y="513" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-3" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="1060" y="357" width="150" height="96" as="geometry" />
+          <mxGeometry x="1054.5" y="597" width="150" height="96" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-4" value="&lt;b&gt;远程证明服务端&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="1075.5" y="389" width="120" height="30" as="geometry" />
+          <mxGeometry x="1070" y="629" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-8" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;b style=&quot;&quot;&gt;证据&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#000066;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="571" y="333" width="70" height="30" as="geometry" />
+          <mxGeometry x="565.5" y="573" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-9" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;b style=&quot;&quot;&gt;证据&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="929" y="294" width="70" height="30" as="geometry" />
+          <mxGeometry x="923.5" y="534" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1" target="Ul80qmY6RzlD6tOj8mos-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="964" y="600" as="sourcePoint" />
-            <mxPoint x="964" y="120" as="targetPoint" />
+            <mxPoint x="958.5" y="840" as="sourcePoint" />
+            <mxPoint x="958.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ul80qmY6RzlD6tOj8mos-10" value="&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;&lt;b style=&quot;&quot;&gt;证明结果&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
-          <mxGeometry x="929" y="372" width="70" height="30" as="geometry" />
+          <mxGeometry x="923.5" y="612" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
