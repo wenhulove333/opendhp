@@ -3714,7 +3714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="DHP远程证明" id="eVm-k5U-M3tUeA_SE87I">
-    <mxGraphModel dx="1566" dy="951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Hc130SN91BSNJIBccRUZ-0" />
         <mxCell id="Hc130SN91BSNJIBccRUZ-1" parent="Hc130SN91BSNJIBccRUZ-0" />
@@ -3772,12 +3772,11 @@
         <mxCell id="Ul80qmY6RzlD6tOj8mos-0" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;TEE&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
           <mxGeometry x="415.5" y="252" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ul80qmY6RzlD6tOj8mos-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1" source="Ul80qmY6RzlD6tOj8mos-1">
+        <mxCell id="Ul80qmY6RzlD6tOj8mos-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.004;exitY=0.663;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;" edge="1" parent="Hc130SN91BSNJIBccRUZ-1" source="Ul80qmY6RzlD6tOj8mos-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="900" y="402" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1030" y="402" />
-              <mxPoint x="900" y="402" />
+              <mxPoint x="900" y="401" />
             </Array>
           </mxGeometry>
         </mxCell>
