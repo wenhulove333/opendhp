@@ -3772,7 +3772,7 @@
         <mxCell id="Ul80qmY6RzlD6tOj8mos-3" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
           <mxGeometry x="1060" y="475" width="150" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="Ul80qmY6RzlD6tOj8mos-4" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
+        <mxCell id="Ul80qmY6RzlD6tOj8mos-4" value="&lt;b&gt;远程证明服务端&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Hc130SN91BSNJIBccRUZ-1">
           <mxGeometry x="1075.5" y="507" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
