@@ -154,7 +154,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;远程证明&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 136, 0), rgb(255, 181, 181));&quot;&gt;TEE及系统可信&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181));&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="717" y="476" width="153" height="30" as="geometry" />
+          <mxGeometry x="717" y="475" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-5" value="&lt;b&gt;验证镜像签名&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;font style=&quot;color: rgb(0, 136, 0);&quot;&gt;NHP代理可信&lt;/font&gt;）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="586" width="150" height="30" as="geometry" />
