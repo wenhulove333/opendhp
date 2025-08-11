@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.9" pages="2">
   <diagram name="产品框架设计" id="Nt4wIiLlnSs3tbjxzQVT">
-    <mxGraphModel dx="848" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -113,6 +113,12 @@
         </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;K8S集群管理及其他系统软件&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="110" y="568" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="417" width="240" height="123" as="geometry" />
+        </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;K8S Pod&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="510" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
