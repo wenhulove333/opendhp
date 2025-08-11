@@ -141,6 +141,12 @@
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-21" value="可信应用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;align=center;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="570" y="450" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#008800;" edge="1" parent="1" source="WrHtqx_JnAegKuw27bFA-6" target="sAuVCd9SCb6oK_chuftu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;远程证明（TEE可信）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="737" y="475" width="95" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
