@@ -120,6 +120,15 @@
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;K8S Pod&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="520" y="510" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;容器&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2656/social_media_social_media_logo_docker-527.svg" vertex="1" parent="1">
+          <mxGeometry x="463" y="461" width="24" height="24" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
