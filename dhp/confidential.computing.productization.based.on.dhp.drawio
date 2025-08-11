@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.9" pages="2">
   <diagram name="产品框架设计" id="Nt4wIiLlnSs3tbjxzQVT">
-    <mxGraphModel dx="814" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1018" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-16" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;验证可信应用摘要&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 136, 0), rgb(255, 181, 181));&quot;&gt;应用可信&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181));&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="730" y="389" width="153" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-18" value="&lt;font style=&quot;color: rgb(0, 102, 0);&quot;&gt;&lt;b style=&quot;&quot;&gt;绿色部分表示可信&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="585.5" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
