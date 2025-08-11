@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.7" pages="26">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.9" pages="26">
   <diagram name="arch" id="-2B2ailxkgt4oX6ftrqh">
-    <mxGraphModel dx="1828" dy="1007" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2036" dy="1236" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vrtd6x2_YnmpAT300qTn-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="368" y="280" width="170" height="350" as="geometry" />
+          <mxGeometry x="507" y="390" width="170" height="350" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-2" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="378" y="473" width="150" height="100" as="geometry" />
+          <mxGeometry x="517" y="583" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-3" value="&lt;b&gt;数据资源请求者&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="403" y="124" width="95" height="30" as="geometry" />
+          <mxGeometry x="542" y="234" width="95" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-4" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="409" y="259" width="130" height="40" as="geometry" />
+          <mxGeometry x="548" y="369" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="vrtd6x2_YnmpAT300qTn-4" vertex="1">
           <mxGeometry x="-7" y="69" width="130" height="40" as="geometry" />
@@ -23,58 +23,58 @@
           <mxGeometry x="29.03" y="77" width="57.94" height="24" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-7" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Agent）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="393" y="489" width="120" height="30" as="geometry" />
+          <mxGeometry x="532" y="599" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.555;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="vrtd6x2_YnmpAT300qTn-54" target="vrtd6x2_YnmpAT300qTn-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="499" y="350" as="targetPoint" />
-            <mxPoint x="500" y="352" as="sourcePoint" />
+            <mxPoint x="638" y="460" as="targetPoint" />
+            <mxPoint x="639" y="462" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604" y="890" as="sourcePoint" />
-            <mxPoint x="604" y="120" as="targetPoint" />
+            <mxPoint x="743" y="1000" as="sourcePoint" />
+            <mxPoint x="743" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-10" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="712" y="366" width="210" height="230" as="geometry" />
+          <mxGeometry x="851" y="476" width="210" height="230" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-11" value="&lt;b&gt;NHP服务器/集群&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="762" y="391" width="110" height="30" as="geometry" />
+          <mxGeometry x="901" y="501" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-12" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="742" y="475" width="150" height="96" as="geometry" />
+          <mxGeometry x="881" y="585" width="150" height="96" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-13" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="757.5" y="507" width="120" height="30" as="geometry" />
+          <mxGeometry x="896.5" y="617" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" parent="1" source="vrtd6x2_YnmpAT300qTn-2" target="vrtd6x2_YnmpAT300qTn-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614" y="490" as="sourcePoint" />
-            <mxPoint x="664" y="440" as="targetPoint" />
+            <mxPoint x="753" y="600" as="sourcePoint" />
+            <mxPoint x="803" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="964" y="890" as="sourcePoint" />
-            <mxPoint x="964" y="120" as="targetPoint" />
+            <mxPoint x="1103" y="1000" as="sourcePoint" />
+            <mxPoint x="1103" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="662" y="660" width="452" height="210" as="geometry" />
+          <mxGeometry x="801" y="770" width="452" height="210" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.965;exitY=0.305;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;strokeWidth=4;startArrow=classic;startFill=0;endArrow=none;" parent="1" source="vrtd6x2_YnmpAT300qTn-18" target="vrtd6x2_YnmpAT300qTn-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-18" value="" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="714" y="683" width="208" height="120" as="geometry" />
+          <mxGeometry x="853" y="793" width="208" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-19" value="&lt;b&gt;DHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="757" y="722" width="120" height="39" as="geometry" />
+          <mxGeometry x="896" y="832" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-20" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1004" y="755" width="90" height="40" as="geometry" />
+          <mxGeometry x="1143" y="865" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-21" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" parent="vrtd6x2_YnmpAT300qTn-20" vertex="1">
           <mxGeometry width="90" height="40" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry x="6" y="9" width="84" height="24" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-23" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1014" y="704" width="70" height="30" as="geometry" />
+          <mxGeometry x="1153" y="814" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-24" value="" style="group" parent="vrtd6x2_YnmpAT300qTn-23" vertex="1" connectable="0">
           <mxGeometry x="-3" width="70" height="30" as="geometry" />
@@ -99,45 +99,45 @@
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=4;startArrow=classic;startFill=0;endArrow=none;entryX=0.93;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vrtd6x2_YnmpAT300qTn-21" target="vrtd6x2_YnmpAT300qTn-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="910" y="775" as="targetPoint" />
+            <mxPoint x="1049" y="885" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-29" value="&lt;b&gt;数据资源提供方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1031.03" y="280" width="105" height="30" as="geometry" />
+          <mxGeometry x="1170.03" y="390" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-30" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="951" y="280" width="279" height="336" as="geometry" />
+          <mxGeometry x="1090" y="390" width="279" height="336" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-31" value="&lt;font&gt;&lt;b&gt;授权服务提供商&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;（Authorization Service Provider）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;（认证授权、 密钥访问服务、策略访问服务）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1006" y="336" width="180" height="120" as="geometry" />
+          <mxGeometry x="1145" y="446" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-32" value="认证授权" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1143" y="505" width="60" height="30" as="geometry" />
+          <mxGeometry x="1282" y="615" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-33" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=light-dark(#000000, #61820b);strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.policy;" parent="1" vertex="1">
-          <mxGeometry x="1085.97" y="462.5" width="50.06" height="43" as="geometry" />
+          <mxGeometry x="1224.97" y="572.5" width="50.06" height="43" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-34" value="策略访问服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1076.03" y="513" width="60" height="30" as="geometry" />
+          <mxGeometry x="1215.03" y="623" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-35" value="" style="sketch=0;verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;fillColor=#000000;align=center;outlineConnect=0;pointerEvents=1;shape=mxgraph.citrix2.citrix_federated_authentication_service2;" parent="1" vertex="1">
-          <mxGeometry x="1148" y="468.95000000000005" width="50" height="30.095" as="geometry" />
+          <mxGeometry x="1287" y="578.95" width="50" height="30.095" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-36" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#000000;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.key_management_service_external_key_store;" parent="1" vertex="1">
-          <mxGeometry x="1017.97" y="458" width="45" height="45" as="geometry" />
+          <mxGeometry x="1156.97" y="568" width="45" height="45" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-37" value="密钥管理服务" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1016" y="513" width="60" height="30" as="geometry" />
+          <mxGeometry x="1155" y="623" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.871;exitDx=0;exitDy=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;exitPerimeter=0;entryX=0.345;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vrtd6x2_YnmpAT300qTn-10" target="vrtd6x2_YnmpAT300qTn-30" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="570" as="targetPoint" />
+            <mxPoint x="1179" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.965;exitY=0.305;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="351" y="823" as="sourcePoint" />
-            <mxPoint x="540" y="823" as="targetPoint" />
+            <mxPoint x="490" y="933" as="sourcePoint" />
+            <mxPoint x="679" y="933" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;数据&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vrtd6x2_YnmpAT300qTn-39" vertex="1" connectable="0">
@@ -147,8 +147,8 @@
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;endArrow=block;endFill=0;startArrow=block;startFill=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="354.5" y="778.37" as="sourcePoint" />
-            <mxPoint x="540" y="778" as="targetPoint" />
+            <mxPoint x="493.5" y="888.37" as="sourcePoint" />
+            <mxPoint x="679" y="888" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;支撑服务&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vrtd6x2_YnmpAT300qTn-41" vertex="1" connectable="0">
@@ -158,8 +158,8 @@
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-43" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="355" y="729" as="sourcePoint" />
-            <mxPoint x="540" y="728" as="targetPoint" />
+            <mxPoint x="494" y="839" as="sourcePoint" />
+            <mxPoint x="679" y="838" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-44" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;NHP控制消息&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vrtd6x2_YnmpAT300qTn-43" vertex="1" connectable="0">
@@ -169,40 +169,40 @@
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-45" value="" style="endArrow=block;startArrow=block;html=1;rounded=0;entryX=0.507;entryY=0.945;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endFill=0;startFill=0;" parent="1" target="vrtd6x2_YnmpAT300qTn-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1035.97" y="660" as="sourcePoint" />
-            <mxPoint x="1085.97" y="610" as="targetPoint" />
+            <mxPoint x="1174.97" y="770" as="sourcePoint" />
+            <mxPoint x="1224.97" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-46" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="vrtd6x2_YnmpAT300qTn-18" target="vrtd6x2_YnmpAT300qTn-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="818" y="680" as="sourcePoint" />
-            <mxPoint x="817.5" y="606" as="targetPoint" />
+            <mxPoint x="957" y="790" as="sourcePoint" />
+            <mxPoint x="956.5" y="716" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-47" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="967.03" y="154" width="245.97" height="110" as="geometry" />
+          <mxGeometry x="1106.03" y="264" width="245.97" height="110" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-48" value="&lt;b&gt;NHP服务器与DHP DB的访问记录、流量日志、安全日志等&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="196" width="176" height="30" as="geometry" />
+          <mxGeometry x="1149" y="306" width="176" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-49" value="" style="endArrow=block;startArrow=none;html=1;rounded=0;strokeWidth=2;endFill=0;startFill=0;exitX=0.692;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="vrtd6x2_YnmpAT300qTn-10" target="vrtd6x2_YnmpAT300qTn-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="809.97" y="396" as="sourcePoint" />
-            <mxPoint x="872" y="332" as="targetPoint" />
+            <mxPoint x="948.97" y="506" as="sourcePoint" />
+            <mxPoint x="1011" y="442" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="857" y="209" />
+              <mxPoint x="996" y="319" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1.102;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.875;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" parent="1" target="vrtd6x2_YnmpAT300qTn-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="499" y="482.00299999999993" as="sourcePoint" />
-            <mxPoint x="499" y="416.05" as="targetPoint" />
+            <mxPoint x="638" y="592.0029999999999" as="sourcePoint" />
+            <mxPoint x="638" y="526.05" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-52" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="450" y="406" width="90" height="40" as="geometry" />
+          <mxGeometry x="589" y="516" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-53" value="" style="group" parent="vrtd6x2_YnmpAT300qTn-52" vertex="1" connectable="0">
           <mxGeometry x="6.75" width="78.75" height="30" as="geometry" />
@@ -218,18 +218,18 @@
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="966" y="271" as="sourcePoint" />
-            <mxPoint x="1220" y="270" as="targetPoint" />
+            <mxPoint x="1105" y="381" as="sourcePoint" />
+            <mxPoint x="1359" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-58" value="&lt;b&gt;数据资源监管方&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1031.03" y="124" width="105" height="30" as="geometry" />
+          <mxGeometry x="1170.03" y="234" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-59" value="&lt;b&gt;DHP服务&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="742" y="124" width="105" height="30" as="geometry" />
+          <mxGeometry x="881" y="234" width="105" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ViIbyjs6gZ8XuyEn1EGI-1" value="数据策略执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="403" y="532" width="100" height="20" as="geometry" />
+          <mxGeometry x="542" y="642" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
