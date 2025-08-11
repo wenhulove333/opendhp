@@ -141,6 +141,16 @@
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Social_Media-2656/social_media_social_media_logo_docker-527.svg" parent="1" vertex="1">
           <mxGeometry x="463" y="461" width="24" height="24" as="geometry" />
         </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#990000;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="440" as="sourcePoint" />
+            <mxPoint x="957.5" y="456" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="409" />
+              <mxPoint x="958" y="409" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-19" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#bac8d3;align=center;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="500" y="441" width="160" height="49" as="geometry" />
         </mxCell>
@@ -170,6 +180,9 @@
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-11" value="&lt;font color=&quot;#663300&quot;&gt;&lt;b&gt;保存数据对象私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1595" y="527" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-16" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;验证可信应用摘要&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 136, 0), rgb(255, 181, 181));&quot;&gt;应用可信&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181));&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="730" y="389" width="153" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
