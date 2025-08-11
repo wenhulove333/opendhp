@@ -11,7 +11,7 @@
           <mxGeometry x="90" y="657" width="610" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sAuVCd9SCb6oK_chuftu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#006600;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="360" y="411" width="340" height="217" as="geometry" />
+          <mxGeometry x="360" y="400" width="340" height="228" as="geometry" />
         </mxCell>
         <mxCell id="sAuVCd9SCb6oK_chuftu-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;TEE硬件保护环境&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008800;" parent="1" vertex="1">
           <mxGeometry x="480" y="598" width="220" height="30" as="geometry" />
@@ -103,13 +103,16 @@
           <mxGeometry x="560" y="697" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;" vertex="1" parent="1">
-          <mxGeometry x="90" y="408" width="250" height="220" as="geometry" />
+          <mxGeometry x="90" y="540" width="250" height="88" as="geometry" />
         </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.607;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="638" y="628" as="sourcePoint" />
             <mxPoint x="637.98" y="698.3199999999999" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6iE0ftHD6iMxIwnmD9MB-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;K8S集群管理及其他系统软件&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="568" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
