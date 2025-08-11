@@ -19,10 +19,10 @@
         <mxCell id="sAuVCd9SCb6oK_chuftu-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;TEE硬件保护环境&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008800;" parent="1" vertex="1">
           <mxGeometry x="480" y="598" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WrHtqx_JnAegKuw27bFA-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信平台&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="WrHtqx_JnAegKuw27bFA-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;可信平台&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="870" y="697" width="530" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WrHtqx_JnAegKuw27bFA-2" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;主机操作系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="WrHtqx_JnAegKuw27bFA-2" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;主机操作系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="870" y="657" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WrHtqx_JnAegKuw27bFA-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;" parent="1" vertex="1">
@@ -43,7 +43,7 @@
         <mxCell id="WrHtqx_JnAegKuw27bFA-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Key Broker Service&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="945" y="587" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WrHtqx_JnAegKuw27bFA-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;主机操作系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="WrHtqx_JnAegKuw27bFA-10" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;主机操作系统&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1180" y="657" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WrHtqx_JnAegKuw27bFA-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;" parent="1" vertex="1">
