@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.9" pages="2">
   <diagram name="产品框架设计" id="Nt4wIiLlnSs3tbjxzQVT">
-    <mxGraphModel dx="2909" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="1681" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#331A00;" parent="1" vertex="1">
           <mxGeometry x="331" y="627" width="630" height="363" as="geometry" />
         </mxCell>
@@ -170,7 +173,7 @@
           <mxGeometry x="1001.5" y="826" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-7" value="&lt;b&gt;数据加密发布&lt;/b&gt;&lt;br&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 136, 0), rgb(255, 181, 181));&quot;&gt;数据可信&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181));&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="1637" y="635" width="153" height="30" as="geometry" />
+          <mxGeometry x="1637" y="636" width="153" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;数据消费者域内&lt;/b&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;（内网）&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6d8764;strokeWidth=2;fontColor=#ffffff;strokeColor=#3A5431;" vertex="1" parent="1">
           <mxGeometry x="331" y="990" width="630" height="40" as="geometry" />
@@ -189,9 +192,6 @@
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-19" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;隐私计算一体机&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="351" y="635" width="130" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wAROfsh_YKeuyRbN7MAn-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="320" y="560" width="1681" height="480" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-21" value="&lt;font style=&quot;color: rgb(0, 102, 0); font-size: 23px;&quot;&gt;&lt;b style=&quot;&quot;&gt;基于DHP + TEE硬件的数据全链路可信控制&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="331" y="570" width="460" height="40" as="geometry" />
