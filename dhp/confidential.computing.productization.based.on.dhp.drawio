@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.0.9" pages="2">
   <diagram name="产品框架设计" id="Nt4wIiLlnSs3tbjxzQVT">
-    <mxGraphModel dx="1018" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1273" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,15 @@
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;color: rgb(0, 102, 204);&quot;&gt;K8S Pod&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="520" y="510" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#990000;" edge="1" parent="1" source="6iE0ftHD6iMxIwnmD9MB-15" target="WrHtqx_JnAegKuw27bFA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="615" y="530" />
+              <mxPoint x="780" y="530" />
+              <mxPoint x="780" y="601" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-15" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#60a917;align=center;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="450" y="430" width="220" height="70" as="geometry" />
         </mxCell>
@@ -141,7 +150,7 @@
         <mxCell id="6iE0ftHD6iMxIwnmD9MB-21" value="可信应用" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#1ba1e2;align=center;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="570" y="450" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wAROfsh_YKeuyRbN7MAn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#008800;" edge="1" parent="1" source="WrHtqx_JnAegKuw27bFA-6" target="sAuVCd9SCb6oK_chuftu-2">
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.994;entryY=0.395;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;startArrow=classic;startFill=1;strokeColor=#990000;" edge="1" parent="1" source="WrHtqx_JnAegKuw27bFA-6" target="sAuVCd9SCb6oK_chuftu-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-2" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;远程证明（TEE可信）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" vertex="1" parent="1">
