@@ -182,7 +182,7 @@
         <mxCell id="wAROfsh_YKeuyRbN7MAn-9" value="密钥管理服务" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=none;align=center;strokeColor=#0066CC;" parent="1" vertex="1">
           <mxGeometry x="1751" y="813" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wAROfsh_YKeuyRbN7MAn-11" value="&lt;font color=&quot;#663300&quot;&gt;&lt;b&gt;保存数据对象私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="wAROfsh_YKeuyRbN7MAn-11" value="&lt;font color=&quot;#663300&quot;&gt;&lt;b&gt;更新数据对象私钥&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1755" y="767" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wAROfsh_YKeuyRbN7MAn-16" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;验证可信应用摘要&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;（&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: rgb(0, 136, 0);&quot;&gt;应用可信&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(153, 0, 0), rgb(255, 181, 181));&quot;&gt;）&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontColor=#990000;" parent="1" vertex="1">
