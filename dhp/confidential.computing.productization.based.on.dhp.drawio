@@ -331,7 +331,7 @@
             <mxPoint x="309" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejOqzrdsjLKKZi0fgrgg-10" value="&lt;b&gt;注册到NHP代理，由NHP管理所有的接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ejOqzrdsjLKKZi0fgrgg-10" value="&lt;b&gt;作为可信应用注册到NHP代理，由NHP管理所有的接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="330" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ejOqzrdsjLKKZi0fgrgg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#006600;" edge="1" parent="1" source="ejOqzrdsjLKKZi0fgrgg-13" target="ejOqzrdsjLKKZi0fgrgg-5">
@@ -364,7 +364,7 @@
             <mxPoint x="309" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ejOqzrdsjLKKZi0fgrgg-20" value="&lt;b&gt;注册到NHP代理，由NHP管理所有的接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ejOqzrdsjLKKZi0fgrgg-20" value="&lt;b&gt;作为可信应用注册到NHP代理，由NHP管理所有的接口&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="671" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ejOqzrdsjLKKZi0fgrgg-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#006600;" edge="1" parent="1" source="ejOqzrdsjLKKZi0fgrgg-22" target="ejOqzrdsjLKKZi0fgrgg-5">
