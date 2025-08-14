@@ -402,7 +402,7 @@
         <mxCell id="ejOqzrdsjLKKZi0fgrgg-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;数据需求方&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="269" y="530" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ejOqzrdsjLKKZi0fgrgg-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;数据提供者&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ejOqzrdsjLKKZi0fgrgg-32" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;数据提供方&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="430" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ejOqzrdsjLKKZi0fgrgg-33" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;TEE硬件&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;" vertex="1" parent="1">
