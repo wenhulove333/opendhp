@@ -49,8 +49,8 @@
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-1" target="OhV8T-aaWGPs-SQFwPPZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-18" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;1. 发出请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="434" width="100" height="30" as="geometry" />
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-18" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;1.外部合约调用 发出请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="161.9" y="427.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.015;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-20" target="OhV8T-aaWGPs-SQFwPPZ-7">
           <mxGeometry relative="1" as="geometry">
@@ -114,7 +114,7 @@
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-40" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;6. 合约间调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="479" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-41" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;7. 外部调用获取结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-41" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;7. 外部合约调用获取结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="161.9" y="484" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
