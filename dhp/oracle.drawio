@@ -43,14 +43,14 @@
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.96;entryY=0.637;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#3333FF;strokeWidth=2;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-7" target="OhV8T-aaWGPs-SQFwPPZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-15" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;合约间调用&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="450" width="80" height="30" as="geometry" />
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-15" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;2. 合约间调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="425" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.023;entryY=0.363;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-1" target="OhV8T-aaWGPs-SQFwPPZ-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-18" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;&lt;b style=&quot;&quot;&gt;外部合约调用&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="454" width="100" height="30" as="geometry" />
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-18" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;1. 发出请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="434" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.015;exitY=0.97;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-20" target="OhV8T-aaWGPs-SQFwPPZ-7">
           <mxGeometry relative="1" as="geometry">
@@ -69,11 +69,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;预言机事件监听&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-24" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;3. 预言机事件监听&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="424" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;通过外部合约调用回写结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="560" y="484" width="110" height="30" as="geometry" />
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;5. 通过外部合约调用回写结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="484" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-26" value="&lt;b&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;数据源&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="880" y="264" width="100" height="40" as="geometry" />
@@ -107,6 +107,15 @@
         </mxCell>
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="OhV8T-aaWGPs-SQFwPPZ-20" target="OhV8T-aaWGPs-SQFwPPZ-27">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-39" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;4. 请求数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="793" y="435" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-40" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;6. 合约间调用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="479" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-41" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;7. 外部调用获取结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="161.9" y="484" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
