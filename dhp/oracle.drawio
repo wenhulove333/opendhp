@@ -117,6 +117,9 @@
         <mxCell id="OhV8T-aaWGPs-SQFwPPZ-41" value="&lt;font style=&quot;color: rgb(0, 0, 0); font-size: 12px;&quot;&gt;7. 外部合约调用获取结果&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="161.9" y="484" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="OhV8T-aaWGPs-SQFwPPZ-42" value="&lt;font color=&quot;#007fff&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;预言机客户端合约&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="316.8" y="350" width="63.2" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
