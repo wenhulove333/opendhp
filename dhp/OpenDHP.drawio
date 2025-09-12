@@ -235,7 +235,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="arch2" id="ez0uGFxOjbWcw8T9UW13">
-    <mxGraphModel dx="1554" dy="822" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1828" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="DDAbwqOoZXLjnKPGlv0c-0" />
         <mxCell id="DDAbwqOoZXLjnKPGlv0c-1" parent="DDAbwqOoZXLjnKPGlv0c-0" />
@@ -465,6 +465,32 @@
         </mxCell>
         <mxCell id="DDAbwqOoZXLjnKPGlv0c-60" value="数据策略执行器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="DDAbwqOoZXLjnKPGlv0c-1">
           <mxGeometry x="542" y="642" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PwcPWaMWHDPVmqY8HOFg-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.555;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="DDAbwqOoZXLjnKPGlv0c-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555.25" y="480" as="targetPoint" />
+            <mxPoint x="553.9625000000001" y="517.9100000000001" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="554" y="510" />
+              <mxPoint x="555" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwcPWaMWHDPVmqY8HOFg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.54;entryY=1.102;entryDx=0;entryDy=0;strokeWidth=4;exitX=0.875;exitY=0.077;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="DDAbwqOoZXLjnKPGlv0c-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="554.25" y="594.0029999999999" as="sourcePoint" />
+            <mxPoint x="554.5250000000001" y="548.4480000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PwcPWaMWHDPVmqY8HOFg-3" value="" style="group" vertex="1" connectable="0" parent="DDAbwqOoZXLjnKPGlv0c-1">
+          <mxGeometry x="520" y="519" width="78.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwcPWaMWHDPVmqY8HOFg-4" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" vertex="1" parent="PwcPWaMWHDPVmqY8HOFg-3">
+          <mxGeometry x="-1.5" width="67.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PwcPWaMWHDPVmqY8HOFg-5" value="&lt;b&gt;返回数据&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PwcPWaMWHDPVmqY8HOFg-3">
+          <mxGeometry y="4" width="78.75" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
