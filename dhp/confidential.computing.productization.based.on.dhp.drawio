@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HeiupVgJCUsZjJ4IngBt" name="DHP可信数据空间">
-    <mxGraphModel dx="1480" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1943" dy="1028" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -549,6 +549,15 @@
         </mxCell>
         <mxCell id="bPYHpP_EgcaECMkrvH_O-42" value="&lt;font color=&quot;#88e099&quot;&gt;&lt;b&gt;系统观测&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-40">
           <mxGeometry x="10" y="8" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="bPYHpP_EgcaECMkrvH_O-33" source="bPYHpP_EgcaECMkrvH_O-37" target="bPYHpP_EgcaECMkrvH_O-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-21" target="bPYHpP_EgcaECMkrvH_O-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-37" target="bPYHpP_EgcaECMkrvH_O-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
