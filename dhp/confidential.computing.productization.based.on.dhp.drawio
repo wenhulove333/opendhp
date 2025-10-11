@@ -605,12 +605,18 @@
         <mxCell id="bPYHpP_EgcaECMkrvH_O-61" value="&lt;font style=&quot;color: rgb(136, 224, 153); font-size: 10px;&quot;&gt;虚拟文件系统&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-33">
           <mxGeometry x="160" y="98" width="69" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="bPYHpP_EgcaECMkrvH_O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#5E9A69;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-21">
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#88E099;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-33">
+          <mxGeometry x="40" y="148.89" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-73" value="&lt;font color=&quot;#88e099&quot;&gt;可信应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-33">
+          <mxGeometry x="50" y="156.89" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=1;strokeColor=#5E9A69;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="800" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bPYHpP_EgcaECMkrvH_O-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;strokeColor=#5E9A69;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-37">
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=1;strokeColor=#5E9A69;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="480" as="targetPoint" />
           </mxGeometry>
