@@ -442,7 +442,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="HeiupVgJCUsZjJ4IngBt" name="DHP可信数据空间">
-    <mxGraphModel dx="1072" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -693,7 +693,7 @@
           <mxGeometry x="600" y="351" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bPYHpP_EgcaECMkrvH_O-74" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;元数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="719" width="60" height="20" as="geometry" />
+          <mxGeometry x="160" y="719" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bPYHpP_EgcaECMkrvH_O-86" value="&lt;font color=&quot;#55c270&quot;&gt;&lt;b&gt;数据使用时身份认证&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="580" y="417" width="120" height="20" as="geometry" />
