@@ -644,6 +644,9 @@
         <mxCell id="bPYHpP_EgcaECMkrvH_O-65" value="&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;数据对象ID&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="326" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-74" value="&lt;font style=&quot;color: rgb(204, 102, 0);&quot;&gt;元数据&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
