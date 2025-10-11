@@ -559,6 +559,9 @@
         <mxCell id="bPYHpP_EgcaECMkrvH_O-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-37" target="bPYHpP_EgcaECMkrvH_O-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-46" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;数据交易&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
