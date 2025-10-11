@@ -473,6 +473,12 @@
         <mxCell id="bPYHpP_EgcaECMkrvH_O-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px; color: rgb(40, 167, 69);&quot;&gt;数据提供方数据空间&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-1">
           <mxGeometry x="11" y="11.11111111111111" width="20" height="177.77777777777777" as="geometry" />
         </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#34C759;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bPYHpP_EgcaECMkrvH_O-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px; color: rgb(52, 199, 89);&quot;&gt;NHP数据经纪件&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567" y="527" width="108" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
