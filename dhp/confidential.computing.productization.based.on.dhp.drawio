@@ -586,6 +586,12 @@
             <mxPoint x="340" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="enW4O0VCiOYX_dfAIIkB-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#88E099;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-7">
+          <mxGeometry x="40" y="148.89" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="enW4O0VCiOYX_dfAIIkB-2" value="&lt;font color=&quot;#88e099&quot;&gt;存证审计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-7">
+          <mxGeometry x="50" y="156.89" width="69" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="bPYHpP_EgcaECMkrvH_O-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="1" source="CTJxgupKdzp2VxmF9X_7-5" target="CTJxgupKdzp2VxmF9X_7-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -658,6 +664,12 @@
             <mxPoint x="400" y="160" as="sourcePoint" />
             <mxPoint x="450" y="110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="enW4O0VCiOYX_dfAIIkB-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#88E099;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-33">
+          <mxGeometry x="150" y="148.89" width="89" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="enW4O0VCiOYX_dfAIIkB-4" value="&lt;font color=&quot;#88e099&quot;&gt;存证审计&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bPYHpP_EgcaECMkrvH_O-33">
+          <mxGeometry x="160" y="156.89" width="69" height="26" as="geometry" />
         </mxCell>
         <mxCell id="bPYHpP_EgcaECMkrvH_O-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=1;strokeColor=#5E9A69;" edge="1" parent="1" source="bPYHpP_EgcaECMkrvH_O-21">
           <mxGeometry relative="1" as="geometry">
