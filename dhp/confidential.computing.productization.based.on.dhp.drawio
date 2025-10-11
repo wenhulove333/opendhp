@@ -447,13 +447,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CTJxgupKdzp2VxmF9X_7-3" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="120" width="240" height="180" as="geometry" />
+          <mxGeometry x="160" y="120" width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CTJxgupKdzp2VxmF9X_7-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=default;" vertex="1" parent="CTJxgupKdzp2VxmF9X_7-3">
-          <mxGeometry width="240" height="180" as="geometry" />
+          <mxGeometry width="280" height="200" as="geometry" />
         </mxCell>
         <mxCell id="CTJxgupKdzp2VxmF9X_7-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;数据提供方数据空间&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="CTJxgupKdzp2VxmF9X_7-3">
-          <mxGeometry x="10" y="10" width="20" height="160" as="geometry" />
+          <mxGeometry x="10" y="11.11111111111111" width="20" height="177.77777777777777" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
