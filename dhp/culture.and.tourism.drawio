@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="AI训练数据处理" id="o2N9xbc35cb2pJkKsNzA">
-    <mxGraphModel dx="1072" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="740" dy="391" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -120,6 +120,9 @@
         </mxCell>
         <mxCell id="fKHp6TarYO2tzrqod3Yr-43" value="&lt;font color=&quot;#28a228&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;视频切片&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fKHp6TarYO2tzrqod3Yr-41">
           <mxGeometry x="1.0099999999999998" y="4.17" width="46.99" height="5.55" as="geometry" />
+        </mxCell>
+        <mxCell id="fKHp6TarYO2tzrqod3Yr-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fKHp6TarYO2tzrqod3Yr-42" target="fKHp6TarYO2tzrqod3Yr-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
