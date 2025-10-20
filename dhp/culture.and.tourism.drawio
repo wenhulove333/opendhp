@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="28.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="28.2.7" pages="2">
   <diagram name="AI训练数据处理" id="o2N9xbc35cb2pJkKsNzA">
-    <mxGraphModel dx="942" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1636" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -534,6 +534,14 @@
         <mxCell id="fKHp6TarYO2tzrqod3Yr-213" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;font style=&quot;color: rgb(0, 153, 0); font-size: 18px;&quot;&gt;视频处理单元&lt;/font&gt;&lt;/h1&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;水平扩展：&lt;/b&gt;支持通过增加节点主机数量，线性提升整体视频处理吞吐量与处理效率；&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;垂直优化：&lt;/b&gt;可通过扩充单机线程数、优化硬件资源调度，最大化发挥单机处理能力；&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;策略调优：&lt;/b&gt;支持灵活调整视频检测策略（如检测精度阈值等），进一步提升单节点视频处理速率；&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 153, 0);&quot;&gt;&lt;b&gt;单机速率计量：&lt;/b&gt;以 “原始视&lt;font style=&quot;background-color: transparent;&quot;&gt;频播放速度的 x 倍速” 为统一单位，直观量化单机视频处理效率&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;background-color: transparent;&quot;&gt;。&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="359" y="180" width="400" height="180" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PYNefHz89zHa-Jn1vSdF" name="第 2 页">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
