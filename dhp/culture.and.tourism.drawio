@@ -697,10 +697,16 @@
           <mxGeometry x="614.89" y="313.45" width="15.11" height="15.11" as="geometry" />
         </mxCell>
         <mxCell id="SETIW44B3UuCod6o89rH-54" value="&lt;font style=&quot;font-size: 12px; color: rgb(47, 189, 47);&quot;&gt;&lt;b&gt;上报配置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="332" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="348" y="260" width="58" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SETIW44B3UuCod6o89rH-55" value="&lt;font style=&quot;font-size: 12px; color: rgb(83, 161, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;上报配置&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="752.5" y="260" width="55" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SETIW44B3UuCod6o89rH-59" value="&lt;font style=&quot;font-size: 12px; color: rgb(47, 189, 47);&quot;&gt;&lt;b&gt;DHP消息&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="292.45" width="58" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SETIW44B3UuCod6o89rH-60" value="&lt;font style=&quot;font-size: 12px; color: rgb(83, 161, 255);&quot;&gt;&lt;b style=&quot;&quot;&gt;DHP消息&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="736" y="291" width="55" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
