@@ -751,6 +751,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7yM-Ws_-ogyrZv52MfHp-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#4A90E2;" vertex="1" parent="1">
+          <mxGeometry x="400" y="140" width="170" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7yM-Ws_-ogyrZv52MfHp-2" value="&lt;font color=&quot;#4a90e2&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;视频汇聚平台&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="151.1111111111111" width="20" height="177.77777777777777" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
