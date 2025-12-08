@@ -747,7 +747,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pfBG-ib1WKFWh6MVoha5" name="新版文旅可信数据空间部署拓扑">
-    <mxGraphModel dx="1237" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="888" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -757,7 +757,7 @@
         <mxCell id="7yM-Ws_-ogyrZv52MfHp-2" value="&lt;font color=&quot;#4a90e2&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;视频汇聚平台&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="151.1111111111111" width="20" height="177.77777777777777" as="geometry" />
         </mxCell>
-        <mxCell id="7yM-Ws_-ogyrZv52MfHp-3" value="port1" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;" vertex="1" parent="1">
+        <mxCell id="7yM-Ws_-ogyrZv52MfHp-3" value="11166" style="fontStyle=0;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=2;strokeColor=#4A90E2;fontColor=#990000;" vertex="1" parent="1">
           <mxGeometry x="570" y="151.11" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
