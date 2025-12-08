@@ -747,7 +747,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pfBG-ib1WKFWh6MVoha5" name="新版文旅可信数据空间部署拓扑">
-    <mxGraphModel dx="1243" dy="685" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3112" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1009,6 +1009,31 @@
         </mxCell>
         <mxCell id="HFPdw0HqKf4B4v8daEDS-54" value="&lt;font style=&quot;color: rgb(0, 0, 255);&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;视频处理单元&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="658" y="62.111111111111086" width="20" height="177.77777777777777" as="geometry" />
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endArrow=none;endFill=0;startArrow=none;startFill=0;strokeColor=#488E2C;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="302.61" as="sourcePoint" />
+            <mxPoint x="860" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-62" value="&lt;font color=&quot;#488e2c&quot;&gt;&lt;b&gt;使用RAAS进行防护&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HFPdw0HqKf4B4v8daEDS-61">
+          <mxGeometry x="-0.0143" relative="1" as="geometry">
+            <mxPoint x="5" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#488E2C;strokeWidth=2;" edge="1" parent="1" source="HFPdw0HqKf4B4v8daEDS-63" target="7yM-Ws_-ogyrZv52MfHp-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-65" value="&lt;b&gt;&lt;font style=&quot;color: rgb(72, 142, 44);&quot;&gt;使用RAAS进行防护&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HFPdw0HqKf4B4v8daEDS-64">
+          <mxGeometry x="-0.2634" relative="1" as="geometry">
+            <mxPoint x="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-63" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="241.22" width="39.78" height="39.78" as="geometry" />
+        </mxCell>
+        <mxCell id="HFPdw0HqKf4B4v8daEDS-66" value="&lt;b&gt;汇聚平台客户端&lt;/b&gt;&lt;div&gt;&lt;b&gt;RTSP拉流&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;RTMP拉流&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-77" y="297.11" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
