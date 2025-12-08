@@ -973,12 +973,12 @@
         <mxCell id="HFPdw0HqKf4B4v8daEDS-49" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FF9999;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="7yM-Ws_-ogyrZv52MfHp-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="575" as="sourcePoint" />
-            <mxPoint x="490" y="540" as="targetPoint" />
+            <mxPoint x="580" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HFPdw0HqKf4B4v8daEDS-50" value="&lt;font style=&quot;color: rgb(255, 153, 153);&quot;&gt;&lt;b&gt;数据使用者使用实时流，目前需要开放&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;b&gt;实时流本身会根据合约认证授权&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff9999&quot;&gt;&lt;b&gt;（后续结合RAAS产品做进一步防护）&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HFPdw0HqKf4B4v8daEDS-49">
           <mxGeometry x="-0.3958" y="1" relative="1" as="geometry">
-            <mxPoint x="104" as="offset" />
+            <mxPoint x="54" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HFPdw0HqKf4B4v8daEDS-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.645;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=#488E2C;startArrow=classic;startFill=1;" edge="1" parent="1" source="7yM-Ws_-ogyrZv52MfHp-3" target="HFPdw0HqKf4B4v8daEDS-53">
