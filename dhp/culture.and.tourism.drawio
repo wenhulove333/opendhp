@@ -747,7 +747,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pfBG-ib1WKFWh6MVoha5" name="新版文旅可信数据空间部署拓扑">
-    <mxGraphModel dx="1554" dy="856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1295" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -770,10 +770,10 @@
           <mxGeometry x="231" y="320" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7yM-Ws_-ogyrZv52MfHp-9" value="&lt;font style=&quot;font-size: 9px; color: rgb(74, 144, 226);&quot;&gt;RTSP&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="176.11" width="30" height="10" as="geometry" />
+          <mxGeometry x="155" y="304.89" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7yM-Ws_-ogyrZv52MfHp-10" value="&lt;font style=&quot;font-size: 9px; color: rgb(74, 144, 226);&quot;&gt;RTMP&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="216.11" width="30" height="10" as="geometry" />
+          <mxGeometry x="226" y="304.89" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7yM-Ws_-ogyrZv52MfHp-11" value="8082" style="fontStyle=0;labelPosition=right;verticalLabelPosition=top;align=left;verticalAlign=bottom;spacingLeft=2;strokeColor=#4A90E2;fontColor=#4A90E2;" vertex="1" parent="1">
           <mxGeometry x="290" y="251.11" width="20" height="20" as="geometry" />
