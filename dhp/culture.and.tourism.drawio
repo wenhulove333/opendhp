@@ -1095,6 +1095,11 @@
             <mxPoint x="490" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="o63mYFGm0_lh_4zKIC7J-4" connectable="0" parent="wJ9EyKKgo3N2cAyjbu92-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="视频下载，FLV视频流" vertex="1">
+          <mxGeometry relative="1" x="0.456" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wJ9EyKKgo3N2cAyjbu92-19" edge="1" parent="wJ9EyKKgo3N2cAyjbu92-1" source="wJ9EyKKgo3N2cAyjbu92-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;strokeColor=#3399FF;" target="wJ9EyKKgo3N2cAyjbu92-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -1106,7 +1111,7 @@
         <mxCell id="o63mYFGm0_lh_4zKIC7J-2" edge="1" parent="wJ9EyKKgo3N2cAyjbu92-1" source="wJ9EyKKgo3N2cAyjbu92-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#80FF00;strokeWidth=2;" target="o63mYFGm0_lh_4zKIC7J-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="o63mYFGm0_lh_4zKIC7J-3" connectable="0" parent="o63mYFGm0_lh_4zKIC7J-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="HLS播放请求" vertex="1">
+        <mxCell id="o63mYFGm0_lh_4zKIC7J-3" connectable="0" parent="o63mYFGm0_lh_4zKIC7J-2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" value="HLS播放请求" vertex="1">
           <mxGeometry relative="1" x="-0.0531" y="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
