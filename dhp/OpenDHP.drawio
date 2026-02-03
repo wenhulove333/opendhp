@@ -22,7 +22,7 @@
         <mxCell id="vrtd6x2_YnmpAT300qTn-6" parent="vrtd6x2_YnmpAT300qTn-4" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;可信应用&lt;/b&gt;" vertex="1">
           <mxGeometry height="24" width="57.94" x="29.03" y="77" as="geometry" />
         </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;NHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Agent）&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vrtd6x2_YnmpAT300qTn-7" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;DHP代理&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Agent）&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="532" y="599" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-8" edge="1" parent="1" source="vrtd6x2_YnmpAT300qTn-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=4;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.555;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" target="vrtd6x2_YnmpAT300qTn-5">
@@ -40,13 +40,13 @@
         <mxCell id="vrtd6x2_YnmpAT300qTn-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=none;align=center;" value="" vertex="1">
           <mxGeometry height="230" width="210" x="851" y="476" as="geometry" />
         </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;NHP服务器/集群&lt;/b&gt;" vertex="1">
+        <mxCell id="vrtd6x2_YnmpAT300qTn-11" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" value="&lt;b&gt;DHP服务器/集群&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="901" y="501" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="96" width="150" x="881" y="585" as="geometry" />
         </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;NHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-Server）&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vrtd6x2_YnmpAT300qTn-13" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;DHP服务器&lt;/b&gt;&lt;div&gt;&lt;b&gt;（DHP-Server）&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="896.5" y="617" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-14" edge="1" parent="1" source="vrtd6x2_YnmpAT300qTn-2" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" target="vrtd6x2_YnmpAT300qTn-12" value="">
@@ -70,7 +70,7 @@
         <mxCell id="vrtd6x2_YnmpAT300qTn-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;gradientColor=none;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="120" width="208" x="853" y="793" as="geometry" />
         </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;DHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（NHP-DB）&lt;/b&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="vrtd6x2_YnmpAT300qTn-19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;DHP数据经纪件&lt;/b&gt;&lt;div&gt;&lt;b&gt;（DHP-DB）&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="39" width="120" x="896" y="832" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-20" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -182,7 +182,7 @@
         <mxCell id="vrtd6x2_YnmpAT300qTn-47" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fillColor=none;" value="" vertex="1">
           <mxGeometry height="110" width="245.97" x="1106.03" y="264" as="geometry" />
         </mxCell>
-        <mxCell id="vrtd6x2_YnmpAT300qTn-48" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;NHP服务器与DHP DB的访问记录、流量日志、安全日志等&lt;/b&gt;" vertex="1">
+        <mxCell id="vrtd6x2_YnmpAT300qTn-48" parent="1" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;b&gt;DHP服务器与DHP DB的访问记录、流量日志、安全日志等&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="176" x="1149" y="306" as="geometry" />
         </mxCell>
         <mxCell id="vrtd6x2_YnmpAT300qTn-49" edge="1" parent="1" source="vrtd6x2_YnmpAT300qTn-10" style="endArrow=block;startArrow=none;html=1;rounded=0;strokeWidth=2;endFill=0;startFill=0;exitX=0.692;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.08;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="vrtd6x2_YnmpAT300qTn-47" value="">
