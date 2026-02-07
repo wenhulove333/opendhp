@@ -994,7 +994,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1gUFUSdtX5_uC0wl3wMd-44" parent="1gUFUSdtX5_uC0wl3wMd-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font&gt;3 数据对象注册&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="73" width="34.5" x="758" y="627.88" as="geometry" />
+          <mxGeometry height="73" width="34.5" x="758" y="629.88" as="geometry" />
         </mxCell>
         <mxCell id="1gUFUSdtX5_uC0wl3wMd-47" parent="1gUFUSdtX5_uC0wl3wMd-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="日志上传" vertex="1">
           <mxGeometry height="20" width="74.97" x="882.5" y="151" as="geometry" />
@@ -1103,7 +1103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dLoHBrrRHjwo9xBRbqku-6" parent="1gUFUSdtX5_uC0wl3wMd-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font&gt;6 封装密钥请求&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="73" width="34.5" x="810.45" y="628.3179999999999" as="geometry" />
+          <mxGeometry height="73" width="34.5" x="810.45" y="630.3179999999999" as="geometry" />
         </mxCell>
         <mxCell id="dLoHBrrRHjwo9xBRbqku-7" edge="1" parent="1gUFUSdtX5_uC0wl3wMd-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.973;entryY=0.666;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=none;startFill=1;startArrow=classic;endFill=0;">
           <mxGeometry relative="1" as="geometry">
@@ -1113,6 +1113,9 @@
         </mxCell>
         <mxCell id="z0o-t8iN8XJOIAhy05Tt-0" parent="1gUFUSdtX5_uC0wl3wMd-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="4 数据对象访问&lt;div&gt;（远程证明）&lt;/div&gt;" vertex="1">
           <mxGeometry height="41" width="130" x="548" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="z0o-t8iN8XJOIAhy05Tt-2" parent="1gUFUSdtX5_uC0wl3wMd-1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font&gt;7 解密预处理数据&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="73" width="34.5" x="459.75" y="399.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
