@@ -4625,7 +4625,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FkmqnCuJ86iKAw7rZuHQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Agent Gateway&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="FkmqnCuJ86iKAw7rZuHQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#82b366;strokeWidth=2;" value="&lt;font style=&quot;font-size: 16px; color: rgb(72, 142, 44);&quot;&gt;&lt;b&gt;Agent Gateway&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="120" width="160" x="120" y="200" as="geometry" />
         </mxCell>
       </root>
